@@ -25,3 +25,4 @@ Trouver des prospects (artisans + fast-food) sans site ou avec site obsolète (W
 
 ## Zones prioritaires
 - À définir selon ta localisation
+# Dernière mise à jour: Fri May  1 21:22:35 UTC 2026
