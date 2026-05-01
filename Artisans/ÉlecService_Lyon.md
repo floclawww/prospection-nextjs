@@ -1,3 +1,23 @@
+---
+nom: Élec'Service Lyon
+type: ''
+metier: Électricien
+zone: Lyon 3e
+statut: à_contacter
+priorite: haute
+site_actuel: ''
+techno: N/A
+date_contact: ''
+date_reponse: ''
+canal: ''
+reponse: ''
+tags:
+- sans_site
+- prospect_chaud
+- artisanat
+telephone: 04 78 56 34 21
+---
+
 # Élec'Service Lyon
 
 ## 📋 Infos générales

@@ -1,3 +1,23 @@
+---
+nom: Serrurerie Rapide
+type: ''
+metier: Serrurier
+zone: Bordeaux
+statut: à_contacter
+priorite: haute
+site_actuel: ''
+techno: N/A
+date_contact: ''
+date_reponse: ''
+canal: ''
+reponse: ''
+tags:
+- sans_site
+- prospect_chaud
+- artisanat
+telephone: 05 56 00 11 22
+---
+
 # Serrurerie Rapide
 
 ## 📋 Infos générales

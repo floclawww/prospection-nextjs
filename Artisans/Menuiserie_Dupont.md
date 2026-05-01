@@ -1,3 +1,24 @@
+---
+nom: Menuiserie Dupont
+type: ''
+metier: Menuisier / Ébéniste
+zone: Marseille 8e
+statut: à_contacter
+priorite: moyenne
+site_actuel: https://menuiserie-dupont-marseille.wixsite.com
+techno: Wix
+date_contact: ''
+date_reponse: ''
+canal: ''
+reponse: ''
+tags:
+- refonte
+- site_existant
+- artisanat
+telephone: 06 12 34 56 78
+email: menuiserie.dupont@orange.fr
+---
+
 # Menuiserie Dupont
 
 ## 📋 Infos générales

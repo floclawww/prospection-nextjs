@@ -1,3 +1,22 @@
+---
+nom: Junk Burgers
+type: Burger
+metier: ''
+zone: France
+statut: à_contacter
+priorite: moyenne
+site_actuel: https://junkburgers.com
+techno: Wix
+date_contact: ''
+date_reponse: ''
+canal: ''
+reponse: ''
+tags:
+- refonte
+- site_existant
+- restauration
+---
+
 # Junk Burgers
 
 ## 📋 Infos générales

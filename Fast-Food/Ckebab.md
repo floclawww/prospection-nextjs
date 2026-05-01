@@ -1,3 +1,22 @@
+---
+nom: Ckebab
+type: Kebab
+metier: ''
+zone: France (national)
+statut: à_contacter
+priorite: moyenne
+site_actuel: https://ckebab.fr
+techno: WordPress
+date_contact: ''
+date_reponse: ''
+canal: ''
+reponse: ''
+tags:
+- refonte
+- site_existant
+- restauration
+---
+
 # Ckebab
 
 ## 📋 Infos générales

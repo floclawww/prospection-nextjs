@@ -1,3 +1,22 @@
+---
+nom: Les Burgers de Papa
+type: Burger
+metier: ''
+zone: France
+statut: à_contacter
+priorite: moyenne
+site_actuel: https://lesburgersdepapa.fr
+techno: WordPress
+date_contact: ''
+date_reponse: ''
+canal: ''
+reponse: ''
+tags:
+- refonte
+- site_existant
+- restauration
+---
+
 # Les Burgers de Papa
 
 ## 📋 Infos générales

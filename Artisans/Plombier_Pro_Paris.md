@@ -1,3 +1,24 @@
+---
+nom: Plombier Pro Paris
+type: ''
+metier: Plombier / Chauffagiste
+zone: Paris 15e
+statut: à_contacter
+priorite: moyenne
+site_actuel: https://plombierproparis.fr
+techno: WordPress
+date_contact: ''
+date_reponse: ''
+canal: ''
+reponse: ''
+tags:
+- refonte
+- site_existant
+- artisanat
+telephone: 01 42 73 45 67
+email: contact@plombierproparis.fr
+---
+
 # Plombier Pro Paris
 
 ## 📋 Infos générales

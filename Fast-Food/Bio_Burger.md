@@ -1,3 +1,22 @@
+---
+nom: Bio Burger
+type: Burger (bio)
+metier: ''
+zone: Paris / France
+statut: à_contacter
+priorite: moyenne
+site_actuel: https://bioburger.fr
+techno: WordPress
+date_contact: ''
+date_reponse: ''
+canal: ''
+reponse: ''
+tags:
+- refonte
+- site_existant
+- restauration
+---
+
 # Bio Burger
 
 ## 📋 Infos générales
