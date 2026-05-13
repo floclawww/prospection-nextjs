@@ -19,7 +19,13 @@
 
 - 🔵 [[Fast-Food/Paris_France/Paris_France_Fast-Food_Bio.md|Bio Burger]] [à_contacter]
 
-## Électricien (12)
+## Couvreur (1)
+
+### 📍 Hossegor (1)
+
+- 🔵 [[Artisans/Hossegor/Hossegor_Couvreur_Eco_Renovation_Toiture_et_Facades.md|Eco Renovation Toiture et Facades]] [à_contacter]
+
+## Électricien (14)
 
 ### 📍 Bordeaux (12)
 
@@ -29,10 +35,55 @@
 - 🔵 [[Artisans/Bordeaux/Bordeaux_Électricien_à_CVC_installation_de_borne_de.md|à  CVC & installation de borne de recharge]] [à_contacter]
 - 🔵 [[Artisans/Bordeaux/Bordeaux_Électricien_à_-_Force_Electricité.md|à - Force Electricité]] [à_contacter]
 - 🔵 [[Artisans/Bordeaux/Bordeaux_Électricien_Électricité_Grand-Clément.md|Accueil Électricité Grand-Clément]] [à_contacter]
-- 🔵 [[Artisans/Bordeaux/Bordeaux_Électricien_Entreprise_délectricité_Talenc.md|Entreprise d’électricité  Talence  ÉCLAIR ELEC]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Électricien_Entreprise_délectricité_Talenc.md|Entreprise d'électricité  Talence  ÉCLAIR ELEC]] [à_contacter]
 - 🔵 [[Artisans/Bordeaux/Bordeaux_Électricien_SpizizzOhm.md|Accueil Spizizz'Ohm]] [à_contacter]
 - 🔵 [[Artisans/Bordeaux/Bordeaux_Électricien_BRUCELEC_Dépannage_Installatio.md|BRUCELEC — Dépannage & Installation]] [à_contacter]
 - 🔵 [[Artisans/Bordeaux/Bordeaux_Électricien_IDEA_ELEC.md|IDEA ELEC]] [à_contacter]
 - 🔵 [[Artisans/Bordeaux/Bordeaux_Électricien_GMBS.md|GMBS]] [à_contacter]
 - 🔵 [[Artisans/Bordeaux/Bordeaux_Électricien_RP_Elec_33.md|,  RP Elec 33]] [à_contacter]
 
+### 📍 Hossegor (1)
+
+- 🔵 [[Artisans/Hossegor/Hossegor_Électricien_Hossegor_Electricite.md|Hossegor Electricite]] [à_contacter]
+
+### 📍 Angresse (1)
+
+- 🔵 [[Artisans/Hossegor/Angresse_Électricien_40_Amperes_Letort_Electricite.md|40 Amperes Letort Electricite]] [à_contacter]
+
+## Maçon (2)
+
+### 📍 Hossegor (1)
+
+- 🔵 [[Artisans/Hossegor/Hossegor_Maçon_Carlos_Moura_Construction.md|Carlos Moura Construction]] [à_contacter]
+
+### 📍 Angresse (1)
+
+- 🔵 [[Artisans/Hossegor/Angresse_Maçon_Y_Lagoutte_Maconnerie.md|Y. Lagoutte Maconnerie]] [à_contacter]
+
+## Menuisier (2)
+
+### 📍 Angresse (2)
+
+- 🔵 [[Artisans/Hossegor/Angresse_Menuisier_AIE_Menuiserie.md|A.I.E. Menuiserie]] [à_contacter]
+- 🔵 [[Artisans/Hossegor/Angresse_Menuisier_JOP_Menuiserie.md|JOP Menuiserie]] [à_contacter]
+
+## Peintre (4)
+
+### 📍 Hossegor (2)
+
+- 🔵 [[Artisans/Hossegor/Hossegor_Peintre_SARL_Lagache_Peinture.md|SARL Lagache Peinture]] [à_contacter]
+- 🔵 [[Artisans/Hossegor/Hossegor_Peintre_EURL_Laborde_Sebastien_Peinture.md|EURL Laborde Sebastien Peinture]] [à_contacter]
+
+### 📍 Angresse (2)
+
+- 🔵 [[Artisans/Hossegor/Angresse_Peintre_SL_Peinture.md|SL Peinture]] [à_contacter]
+
+## Plombier (2)
+
+### 📍 Hossegor (1)
+
+- 🔵 [[Artisans/Hossegor/Hossegor_Plombier_Plomberie_Sanitaire_Revet_Aquitaine.md|Plomberie Sanitaire Revet Aquitaine]] [à_contacter]
+
+### 📍 Angresse (1)
+
+- 🔵 [[Artisans/Hossegor/Angresse_Plombier_Alternative_Plomberie.md|Alternative Plomberie]] [à_contacter]
