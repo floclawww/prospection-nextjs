@@ -5,6 +5,248 @@
 ## 📍 Bordeaux (30)
 
 
+### 🛠️ Événementiel (1)
+
+
+### 🛠️ Vétérinaire (1)
+
+- 🔵 🟡 [[Artisans/Bordeaux/Bordeaux_Événementiel_Agence_Jour_Ferie.md|Agence Jour Férié]]
+  📞 06 28 21 98 32
+  🌐 agencejourferie.fr...
+  Statut: **à_contacter** | Priorité: **moyenne**
+
+### 🛠️ Théâtre (2)
+
+- 🔵 🟡 [[Artisans/Bordeaux/Bordeaux_Vétérinaire_Jerome_Brochet_Veterinaire.md|Jérôme Brochet - Vétérinaire]]
+  📞 05 56 08 46 48
+  Statut: **à_contacter** | Priorité: **moyenne**
+
+### 🛠️ Sécurité (1)
+
+- 🔵 🟡 [[Artisans/Bordeaux/Bordeaux_Théâtre_Le_Poquelin_Theatre.md|Le Poquelin Théâtre]]
+  📞 06 87 54 96 05
+  Statut: **à_contacter** | Priorité: **moyenne**
+- 🔵 🟡 [[Artisans/Bordeaux/Bordeaux_Théâtre_La_Pergola.md|La Pergola]]
+  📞 05 56 02 62 04
+  Statut: **à_contacter** | Priorité: **moyenne**
+
+### 🛠️ Service (25)
+
+- 🔵 🟢 [[Artisans/Bordeaux/Bordeaux_Sécurité_KS_Protection.md|KS Protection]]
+  📞 06 52 24 21 57
+  ✉️ direction@ks-protection.fr
+  🌐 ks-protection.fr...
+  Statut: **à_contacter** | Priorité: **basse**
+
+### 🛠️ Psychologue (2)
+
+- 🔵 🔴 [[Artisans/Bordeaux/Bordeaux_Service_Voyage_en_francais.md|Voyage en français]]
+  📞 05 56 52 96 36
+  🌐 voyage-en-francais.fr...
+  Statut: **à_contacter** | Priorité: **haute**
+- 🔵 🔴 [[Artisans/Bordeaux/Bordeaux_Service_Total_Heaven.md|Total Heaven]]
+  📞 05 56 31 31 03
+  🌐 free.fr...
+  Statut: **à_contacter** | Priorité: **haute**
+- 🔵 🟢 [[Artisans/Bordeaux/Bordeaux_Service_TEP_Conseil.md|TEP Conseil]]
+  📞 06 32 39 44 11
+  🌐 tepconseil.fr...
+  Statut: **à_contacter** | Priorité: **basse**
+- 🔵 🟡 [[Artisans/Bordeaux/Bordeaux_Service_Superplanner_Bordeaux.md|Superplanner Bordeaux]]
+  📞 06 28 21 98 32
+  Statut: **à_contacter** | Priorité: **moyenne**
+- 🔵 🟡 [[Artisans/Bordeaux/Bordeaux_Service_Studio_Fabienne_Chaumet.md|Studio Fabienne Chaumet]]
+  📞 06 73 01 42 54
+  🌐 site-solocal.com...
+  Statut: **à_contacter** | Priorité: **moyenne**
+- 🔵 🟡 [[Artisans/Bordeaux/Bordeaux_Service_Studio_3i.md|Studio 3i]]
+  📞 06 30 32 59 76
+  Statut: **à_contacter** | Priorité: **moyenne**
+- 🔵 🟡 [[Artisans/Bordeaux/Bordeaux_Service_Sprint_Copie.md|Sprint Copie]]
+  📞 05 56 81 47 14
+  🌐 sprint-copie-bordeaux.fr...
+  Statut: **à_contacter** | Priorité: **moyenne**
+- 🔵 🟡 [[Artisans/Bordeaux/Bordeaux_Service_Smart_Green_Corner.md|Smart Green Corner]]
+  📞 05 56 23 17 55
+  Statut: **à_contacter** | Priorité: **moyenne**
+- 🔵 🟡 [[Artisans/Bordeaux/Bordeaux_Service_Quvee.md|Quvee]]
+  📞 05 40 12 36 24
+  ✉️ bastide@quvee.fr
+  🌐 quvee.fr...
+  Statut: **à_contacter** | Priorité: **moyenne**
+- 🔵 🟢 [[Artisans/Bordeaux/Bordeaux_Service_Nuage_et_Eau.md|Nuage et Eau]]
+  📞 07 81 26 13 29
+  ✉️ contact@nuageeteau.fr
+  🌐 nuageeteau.fr...
+  Statut: **à_contacter** | Priorité: **basse**
+- 🔵 🟡 [[Artisans/Bordeaux/Bordeaux_Service_Nextep_HR.md|Nextep HR]]
+  📞 07 48 15 31 88
+  🌐 dominoconsulting.fr...
+  Statut: **à_contacter** | Priorité: **moyenne**
+- 🔵 🔴 [[Artisans/Bordeaux/Bordeaux_Service_Le_Boudoir_Sonore.md|Le Boudoir Sonore]]
+  📞 06 73 12 38 70
+  Statut: **à_contacter** | Priorité: **haute**
+- 🔵 🟡 [[Artisans/Bordeaux/Bordeaux_Service_Le_Balancier.md|Le Balancier]]
+  📞 09 81 87 59 95
+  🌐 eatbu.com...
+  Statut: **à_contacter** | Priorité: **moyenne**
+- 🔵 🔴 [[Artisans/Bordeaux/Bordeaux_Service_La_Parenthese.md|La Parenthèse]]
+  📞 06 81 65 63 48
+  Statut: **à_contacter** | Priorité: **haute**
+- 🔵 🔴 [[Artisans/Bordeaux/Bordeaux_Service_La_Mauvaise_Reputation.md|La Mauvaise Réputation]]
+  📞 05 56 79 73 54
+  🌐 free.fr...
+  Statut: **à_contacter** | Priorité: **haute**
+- 🔵 🔴 [[Artisans/Bordeaux/Bordeaux_Service_La_Maison_du_Glacier.md|La Maison du Glacier]]
+  📞 05 40 54 65 96
+  Statut: **à_contacter** | Priorité: **haute**
+- 🔵 🔴 [[Artisans/Bordeaux/Bordeaux_Service_La_Creperie_dAlba.md|La Crêperie d'Alba]]
+  📞 05 56 51 02 33
+  Statut: **à_contacter** | Priorité: **haute**
+- 🔵 🟡 [[Artisans/Bordeaux/Bordeaux_Service_LAtelier_du_48.md|L'Atelier du 48]]
+  📞 07 52 60 34 02
+  Statut: **à_contacter** | Priorité: **moyenne**
+- 🔵 🔴 [[Artisans/Bordeaux/Bordeaux_Service_Kuro_Espresso_Bar.md|Kuro Espresso Bar]]
+  📞 06 37 65 91 29
+  🌐 wixsite.com...
+  Statut: **à_contacter** | Priorité: **haute**
+- 🔵 🟢 [[Artisans/Bordeaux/Bordeaux_Service_Kathy_Masse_Lamarr.md|Kathy Massé-Lamarr]]
+  📞 06 82 32 76 45
+  ✉️ ecoledanse33@gmail.com
+  🌐 flamenco-claquettes-bordeaux.fr...
+  Statut: **à_contacter** | Priorité: **basse**
+- 🔵 🟡 [[Artisans/Bordeaux/Bordeaux_Service_IL_ETAIT_UNE_FOIS_POUR_REVER.md|IL ETAIT UNE FOIS POUR REVER]]
+  📞 06 80 90 52 70
+  🌐 iletait1foispourrever.com...
+  Statut: **à_contacter** | Priorité: **moyenne**
+- 🔵 🔴 [[Artisans/Bordeaux/Bordeaux_Service_Globe_Travel.md|Globe Travel]]
+  📞 05 57 95 70 36
+  🌐 À vérifier...
+  Statut: **à_contacter** | Priorité: **haute**
+- 🔵 🔴 [[Artisans/Bordeaux/Bordeaux_Service_Copies_Chartrons.md|Copies Chartrons]]
+  📞 05 56 01 13 13
+  🌐 À vérifier...
+  Statut: **à_contacter** | Priorité: **haute**
+- 🔵 🔴 [[Artisans/Bordeaux/Bordeaux_Service_Comptoir_des_Voyages.md|Comptoir des Voyages]]
+  📞 05 35 54 31 40
+  🌐 À vérifier...
+  Statut: **à_contacter** | Priorité: **haute**
+- 🔵 🔴 [[Artisans/Bordeaux/Bordeaux_Service_AB_Courtage_Bordeaux.md|AB Courtage Bordeaux]]
+  📞 09 83 62 25 00
+  🌐 agence.abcourtage.com/bordeaux...
+  Statut: **à_contacter** | Priorité: **haute**
+
+### 🛠️ Orthophoniste (8)
+
+- 🔵 🟢 [[Artisans/Bordeaux/Bordeaux_Psychologue_Nathalie_Trebucq_Psychologue.md|Nathalie Trebucq - Psychologue]]
+  📞 06 87 70 79 34
+  Statut: **à_contacter** | Priorité: **basse**
+- 🔵 🟢 [[Artisans/Bordeaux/Bordeaux_Psychologue_Jerome_Jourdanet_Psychologue.md|Jérôme Jourdanet - Psychologue]]
+  📞 06 52 62 90 60
+  Statut: **à_contacter** | Priorité: **basse**
+
+### 🛠️ Micro-crèche (1)
+
+- 🔵 🟢 [[Artisans/Bordeaux/Bordeaux_Orthophoniste_Virginie_Berland_Orthophoniste.md|Virginie Berland - Orthophoniste]]
+  📞 05 57 81 89 16
+  Statut: **à_contacter** | Priorité: **basse**
+- 🔵 🟢 [[Artisans/Bordeaux/Bordeaux_Orthophoniste_Tiphaine_Guilon_Le_Goff_Orthophoniste.md|Tiphaine Guilon Le Goff - Orthophoniste]]
+  📞 05 56 50 74 88
+  Statut: **à_contacter** | Priorité: **basse**
+- 🔵 🟢 [[Artisans/Bordeaux/Bordeaux_Orthophoniste_Severine_Delpech_Orthophoniste.md|Séverine Delpech - Orthophoniste]]
+  📞 05 56 23 96 85
+  Statut: **à_contacter** | Priorité: **basse**
+- 🔵 🟢 [[Artisans/Bordeaux/Bordeaux_Orthophoniste_Lorette_Juret_Orthophoniste.md|Lorette Juret - Orthophoniste]]
+  📞 05 57 10 75 12
+  Statut: **à_contacter** | Priorité: **basse**
+- 🔵 🟢 [[Artisans/Bordeaux/Bordeaux_Orthophoniste_Helene_Passemard_Orthophoniste.md|Hélène Passemard - Orthophoniste]]
+  📞 05 56 52 44 84
+  Statut: **à_contacter** | Priorité: **basse**
+- 🔵 🟢 [[Artisans/Bordeaux/Bordeaux_Orthophoniste_Clelie_Delpech_Orthophoniste.md|Clélie Delpech - Orthophoniste]]
+  📞 07 49 24 40 44
+  Statut: **à_contacter** | Priorité: **basse**
+- 🔵 🟢 [[Artisans/Bordeaux/Bordeaux_Orthophoniste_Charlotte_Savard_Orthophoniste.md|Charlotte Savard - Orthophoniste]]
+  📞 05 56 08 00 76
+  Statut: **à_contacter** | Priorité: **basse**
+- 🔵 🟢 [[Artisans/Bordeaux/Bordeaux_Orthophoniste_Anne_Chanalet_Orthophoniste.md|Anne Chanalet - Orthophoniste]]
+  📞 06 02 08 65 31
+  Statut: **à_contacter** | Priorité: **basse**
+
+### 🛠️ Location (1)
+
+- 🔵 🟢 [[Artisans/Bordeaux/Bordeaux_Micro-crèche_Micro_Creche_Youbee_For_Kids.md|Micro-Crèche Youbee For Kids]]
+  📞 06 70 70 06 31
+  Statut: **à_contacter** | Priorité: **basse**
+
+### 🛠️ Librairie (1)
+
+- 🔵 🟢 [[Artisans/Bordeaux/Bordeaux_Location_Locakou.md|Locakou]]
+  📞 06 99 77 75 45
+  ✉️ contact@locakou.com
+  🌐 locakou.com...
+  Statut: **à_contacter** | Priorité: **basse**
+
+### 🛠️ Kinésiologue (2)
+
+- 🔵 🟡 [[Artisans/Bordeaux/Bordeaux_Librairie_Librairie_disque_MICITA.md|Librairie-disque MICITA]]
+  📞 09 81 32 18 57
+  🌐 business.site...
+  Statut: **à_contacter** | Priorité: **moyenne**
+
+### 🛠️ Immobilier (2)
+
+- 🔵 🟢 [[Artisans/Bordeaux/Bordeaux_Kinésiologue_Sonia_Benisty_Kinesiologue.md|Sonia Benisty - Kinésiologue]]
+  📞 06 31 13 27 44
+  Statut: **à_contacter** | Priorité: **basse**
+- 🔵 🟢 [[Artisans/Bordeaux/Bordeaux_Kinésiologue_Amandine_Palmer_Brassens_Kinesiologue.md|Amandine Palmer-Brassens - Kinésiologue]]
+  📞 06 34 28 20 26
+  Statut: **à_contacter** | Priorité: **basse**
+
+### 🛠️ Déménageur (1)
+
+- 🔵 🔴 [[Artisans/Bordeaux/Bordeaux_Immobilier_Selection_Bordelaise.md|Sélection Bordelaise]]
+  📞 06 11 46 41 16
+  Statut: **à_contacter** | Priorité: **haute**
+- 🔵 🔴 [[Artisans/Bordeaux/Bordeaux_Immobilier_Agence_Immobiliere_Bordeaux_Cauderan.md|Agence Immobilière Bordeaux (Caudéran)]]
+  📞 05 33 05 16 98
+  Statut: **à_contacter** | Priorité: **haute**
+
+### 🛠️ Communication (1)
+
+- 🔵 🟡 [[Artisans/Bordeaux/Bordeaux_Déménageur_Larnaudie_Demenagements.md|Larnaudie Déménagements]]
+  📞 05 56 91 31 26
+  ✉️ contact@larnaudie-dem.com
+  🌐 demenagement-larnaudie.com...
+  Statut: **à_contacter** | Priorité: **moyenne**
+
+### 🛠️ Chocolatier (1)
+
+- 🔵 🟡 [[Artisans/Bordeaux/Bordeaux_Communication_HiVE_CONCEPT.md|HiVE CONCEPT]]
+  📞 09 61 32 07 56
+  Statut: **à_contacter** | Priorité: **moyenne**
+
+### 🛠️ Carrossier (1)
+
+- 🔵 🟡 [[Artisans/Bordeaux/Bordeaux_Chocolatier_Les_Chocolats_de_lIntendance.md|Les Chocolats de l'Intendance]]
+  📞 05 57 83 72 41
+  Statut: **à_contacter** | Priorité: **moyenne**
+
+### 🛠️ Auto-école (2)
+
+- 🔵 🟢 [[Artisans/Bordeaux/Bordeaux_Carrossier_Color_Auto.md|Color Auto]]
+  📞 05 56 79 15 15
+  ✉️ magic.claverie@orange.fr
+  🌐 carrosserie-peinture-33.com...
+  Statut: **à_contacter** | Priorité: **basse**
+
+- 🔵 🟢 [[Artisans/Bordeaux/Bordeaux_Auto-école_FAME_de_Bordeaux.md|FAME de Bordeaux]]
+  📞 05 56 69 88 64
+  ✉️ auto.ecole.fame@gmail.com
+  🌐 auto-moto-ecole-bordeaux.fr...
+  Statut: **à_contacter** | Priorité: **basse**
+- 🔵 🟢 [[Artisans/Bordeaux/Bordeaux_Auto-école_Auto_Ecole_VK.md|Auto Ecole VK]]
+  📞 06 31 29 01 20
+  Statut: **à_contacter** | Priorité: **basse**
 ### 🛠️ Électricien (1)
 
 
@@ -742,8 +984,20 @@
 
 ## 📍 Lormont (9)
 
-### 🛠️ Garage (2)
 
+### 🛠️ Sécurité (1)
+
+### 🛠️ Garage (2)
+- 🔵 🟡 [[Artisans/Lormont/Lormont_Sécurité_BEE_SECURE.md|BEE SECURE]]
+  📞 07 61 69 05 85
+  ✉️ contact@b-secure.fr
+  🌐 b-secure.fr...
+  Statut: **à_contacter** | Priorité: **moyenne**
+
+- 🔵 🟡 [[Artisans/Lormont/Lormont_Garage_Garage_Albert.md|Garage Albert]]
+  📞 05 56 31 60 61
+  🌐 garage-albert-fiat-lormont.fr...
+  Statut: **à_contacter** | Priorité: **moyenne**
 - 🔵 🟡 [[Commerces/Lormont/Lormont_Garage_Garage_Garcia.md|Garage Garcia]]
   📞 07 60 09 21 43
   Statut: **à_contacter** | Priorité: **moyenne**
@@ -783,7 +1037,15 @@
 
 ## 📍 Mérignac (3)
 
+
+### 🛠️ Service (1)
+
 ### 🛠️ Menuisier (1)
+- 🔵 🟡 [[Artisans/Mérignac/Mérignac_Service_Sophie_MADRE_Slide_Studio.md|Sophie MADRE - Slide Studio]]
+  📞 06 22 25 73 56
+  ✉️ studiomelanie@protonmail.com
+  🌐 free.fr...
+  Statut: **à_contacter** | Priorité: **moyenne**
 
 - 🔵 🟡 [[Artisans/Mérignac/Mérignac_Menuisier_CSAM_33.md|CSAM-33]]
   Statut: **à_contacter** | Priorité: **moyenne**
@@ -806,7 +1068,14 @@
 
 ## 📍 Pessac (5)
 
+
+### 🛠️ Déménageur (1)
+
 ### 🛠️ Boulangerie (3)
+- 🔵 🟢 [[Artisans/Pessac/Pessac_Déménageur_PrestaDEM.md|Presta'DEM]]
+  📞 07 62 16 69 23
+  🌐 prestadem.fr...
+  Statut: **à_contacter** | Priorité: **basse**
 
 - 🔵 🔴 [[Fast-Food/Pessac/Pessac_Boulangerie_Berenils.md|Berenils]]
   📞 05 56 36 48 66
@@ -845,7 +1114,22 @@
 
 ## 📍 Talence (3)
 
+
+### 🛠️ Transporteur (2)
+
+
+### 🛠️ Déménageur (1)
+
+- 🔵 🟢 [[Artisans/Talence/Talence_Transporteur_VLJ_Transports.md|VLJ Transports]]
+  📞 06 63 31 91 33
+  Statut: **à_contacter** | Priorité: **basse**
+- 🔵 🟢 [[Artisans/Talence/Talence_Transporteur_Gauvin_Cedric.md|Gauvin Cédric]]
+  📞 06 21 72 66 29
+  Statut: **à_contacter** | Priorité: **basse**
 ### 🛠️ Boulangerie (1)
+- 🔵 🟢 [[Artisans/Talence/Talence_Déménageur_Chapuis_Florian.md|Chapuis Florian]]
+  📞 05 56 37 10 81
+  Statut: **à_contacter** | Priorité: **basse**
 
 - 🔵 🟡 [[Fast-Food/Talence/Talence_Boulangerie_Boulangerie_du_Forum.md|Boulangerie du Forum]]
   📞 05 56 80 07 06
@@ -866,3 +1150,35 @@
 - 🔵 🟢 [[Artisans/Talence/Talence_Peintre_BALDO_MA_Peinture.md|BALDO MA Peinture]]
   Statut: **à_contacter** | Priorité: **basse**
 
+
+
+## 📍 Blanquefort (0)
+
+
+### 🛠️ Service (1)
+
+- 🔵 🟢 [[Artisans/Blanquefort/Blanquefort_Service_Rincon_EURL.md|Rincon EURL]]
+  📞 05 56 28 57 03
+  ✉️ contact@rincon-eurl.fr
+  🌐 rincon-eurl.fr...
+  Statut: **à_contacter** | Priorité: **basse**
+
+## 📍 Gradignan (0)
+
+
+### 🛠️ Nettoyage (1)
+
+- 🔵 🟢 [[Artisans/Gradignan/Gradignan_Nettoyage_Pronet_Services.md|Pronet Services]]
+  📞 05 40 24 62 26
+  ✉️ contact@pronetservices.net
+  🌐 pronetservices.net...
+  Statut: **à_contacter** | Priorité: **basse**
+
+## 📍 Saint-Caprais-de-Bordeaux (0)
+
+
+### 🛠️ Carrossier (1)
+
+- 🔵 🟡 [[Artisans/Saint-Caprais-de-Bordeaux/Saint-Caprais-de-Bordeaux_Carrossier_Carrosserie_Saint_Capraisienne.md|Carrosserie Saint Capraisienne]]
+  📞 05 56 30 01 49
+  Statut: **à_contacter** | Priorité: **moyenne**

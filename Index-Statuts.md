@@ -4,7 +4,91 @@
 
 ## 🔵 À_CONTACTER (75)
 
+
+### 📍 Talence
+
+
+### 📍 Saint-Caprais-de-Bordeaux
+
+- 🟢 [[Artisans/Talence/Talence_Transporteur_VLJ_Transports.md|VLJ Transports]] — Transporteur
+- 🟢 [[Artisans/Talence/Talence_Transporteur_Gauvin_Cedric.md|Gauvin Cédric]] — Transporteur
+- 🟢 [[Artisans/Talence/Talence_Déménageur_Chapuis_Florian.md|Chapuis Florian]] — Déménageur
+
+### 📍 Pessac
+
+- 🟡 [[Artisans/Saint-Caprais-de-Bordeaux/Saint-Caprais-de-Bordeaux_Carrossier_Carrosserie_Saint_Capraisienne.md|Carrosserie Saint Capraisienne]] — Carrossier
+
+### 📍 Mérignac
+
+- 🟢 [[Artisans/Pessac/Pessac_Déménageur_PrestaDEM.md|Presta'DEM]] — Déménageur
+
+### 📍 Lormont
+
+- 🟡 [[Artisans/Mérignac/Mérignac_Service_Sophie_MADRE_Slide_Studio.md|Sophie MADRE - Slide Studio]] — Service
+
+### 📍 Gradignan
+
+- 🟡 [[Artisans/Lormont/Lormont_Garage_Garage_Albert.md|Garage Albert]] — Garage
+- 🟡 [[Artisans/Lormont/Lormont_Sécurité_BEE_SECURE.md|BEE SECURE]] — Sécurité
+
+### 📍 Blanquefort
+
+- 🟢 [[Artisans/Gradignan/Gradignan_Nettoyage_Pronet_Services.md|Pronet Services]] — Nettoyage
 ### 📍 Bordeaux
+- 🟢 [[Artisans/Blanquefort/Blanquefort_Service_Rincon_EURL.md|Rincon EURL]] — Service
+- 🔴 [[Artisans/Bordeaux/Bordeaux_Service_Voyage_en_francais.md|Voyage en français]] — Service
+- 🟢 [[Artisans/Bordeaux/Bordeaux_Orthophoniste_Virginie_Berland_Orthophoniste.md|Virginie Berland - Orthophoniste]] — Orthophoniste
+- 🔴 [[Artisans/Bordeaux/Bordeaux_Service_Total_Heaven.md|Total Heaven]] — Service
+- 🟢 [[Artisans/Bordeaux/Bordeaux_Orthophoniste_Tiphaine_Guilon_Le_Goff_Orthophoniste.md|Tiphaine Guilon Le Goff - Orthophoniste]] — Orthophoniste
+- 🟢 [[Artisans/Bordeaux/Bordeaux_Service_TEP_Conseil.md|TEP Conseil]] — Service
+- 🟢 [[Artisans/Bordeaux/Bordeaux_Orthophoniste_Severine_Delpech_Orthophoniste.md|Séverine Delpech - Orthophoniste]] — Orthophoniste
+- 🔴 [[Artisans/Bordeaux/Bordeaux_Immobilier_Selection_Bordelaise.md|Sélection Bordelaise]] — Immobilier
+- 🟡 [[Artisans/Bordeaux/Bordeaux_Service_Superplanner_Bordeaux.md|Superplanner Bordeaux]] — Service
+- 🟡 [[Artisans/Bordeaux/Bordeaux_Service_Studio_Fabienne_Chaumet.md|Studio Fabienne Chaumet]] — Service
+- 🟡 [[Artisans/Bordeaux/Bordeaux_Service_Studio_3i.md|Studio 3i]] — Service
+- 🟡 [[Artisans/Bordeaux/Bordeaux_Service_Sprint_Copie.md|Sprint Copie]] — Service
+- 🟢 [[Artisans/Bordeaux/Bordeaux_Kinésiologue_Sonia_Benisty_Kinesiologue.md|Sonia Benisty - Kinésiologue]] — Kinésiologue
+- 🟡 [[Artisans/Bordeaux/Bordeaux_Service_Smart_Green_Corner.md|Smart Green Corner]] — Service
+- 🟡 [[Artisans/Bordeaux/Bordeaux_Service_Quvee.md|Quvee]] — Service
+- 🟢 [[Artisans/Bordeaux/Bordeaux_Service_Nuage_et_Eau.md|Nuage et Eau]] — Service
+- 🟡 [[Artisans/Bordeaux/Bordeaux_Service_Nextep_HR.md|Nextep HR]] — Service
+- 🟢 [[Artisans/Bordeaux/Bordeaux_Psychologue_Nathalie_Trebucq_Psychologue.md|Nathalie Trebucq - Psychologue]] — Psychologue
+- 🟢 [[Artisans/Bordeaux/Bordeaux_Micro-crèche_Micro_Creche_Youbee_For_Kids.md|Micro-Crèche Youbee For Kids]] — Micro-crèche
+- 🟢 [[Artisans/Bordeaux/Bordeaux_Orthophoniste_Lorette_Juret_Orthophoniste.md|Lorette Juret - Orthophoniste]] — Orthophoniste
+- 🟢 [[Artisans/Bordeaux/Bordeaux_Location_Locakou.md|Locakou]] — Location
+- 🟡 [[Artisans/Bordeaux/Bordeaux_Librairie_Librairie_disque_MICITA.md|Librairie-disque MICITA]] — Librairie
+- 🟡 [[Artisans/Bordeaux/Bordeaux_Chocolatier_Les_Chocolats_de_lIntendance.md|Les Chocolats de l'Intendance]] — Chocolatier
+- 🟡 [[Artisans/Bordeaux/Bordeaux_Théâtre_Le_Poquelin_Theatre.md|Le Poquelin Théâtre]] — Théâtre
+- 🔴 [[Artisans/Bordeaux/Bordeaux_Service_Le_Boudoir_Sonore.md|Le Boudoir Sonore]] — Service
+- 🟡 [[Artisans/Bordeaux/Bordeaux_Service_Le_Balancier.md|Le Balancier]] — Service
+- 🟡 [[Artisans/Bordeaux/Bordeaux_Déménageur_Larnaudie_Demenagements.md|Larnaudie Déménagements]] — Déménageur
+- 🟡 [[Artisans/Bordeaux/Bordeaux_Théâtre_La_Pergola.md|La Pergola]] — Théâtre
+- 🔴 [[Artisans/Bordeaux/Bordeaux_Service_La_Parenthese.md|La Parenthèse]] — Service
+- 🔴 [[Artisans/Bordeaux/Bordeaux_Service_La_Mauvaise_Reputation.md|La Mauvaise Réputation]] — Service
+- 🔴 [[Artisans/Bordeaux/Bordeaux_Service_La_Maison_du_Glacier.md|La Maison du Glacier]] — Service
+- 🔴 [[Artisans/Bordeaux/Bordeaux_Service_La_Creperie_dAlba.md|La Crêperie d'Alba]] — Service
+- 🟡 [[Artisans/Bordeaux/Bordeaux_Service_LAtelier_du_48.md|L'Atelier du 48]] — Service
+- 🔴 [[Artisans/Bordeaux/Bordeaux_Service_Kuro_Espresso_Bar.md|Kuro Espresso Bar]] — Service
+- 🟢 [[Artisans/Bordeaux/Bordeaux_Service_Kathy_Masse_Lamarr.md|Kathy Massé-Lamarr]] — Service
+- 🟢 [[Artisans/Bordeaux/Bordeaux_Sécurité_KS_Protection.md|KS Protection]] — Sécurité
+- 🟢 [[Artisans/Bordeaux/Bordeaux_Psychologue_Jerome_Jourdanet_Psychologue.md|Jérôme Jourdanet - Psychologue]] — Psychologue
+- 🟡 [[Artisans/Bordeaux/Bordeaux_Vétérinaire_Jerome_Brochet_Veterinaire.md|Jérôme Brochet - Vétérinaire]] — Vétérinaire
+- 🟡 [[Artisans/Bordeaux/Bordeaux_Service_IL_ETAIT_UNE_FOIS_POUR_REVER.md|IL ETAIT UNE FOIS POUR REVER]] — Service
+- 🟢 [[Artisans/Bordeaux/Bordeaux_Orthophoniste_Helene_Passemard_Orthophoniste.md|Hélène Passemard - Orthophoniste]] — Orthophoniste
+- 🟡 [[Artisans/Bordeaux/Bordeaux_Communication_HiVE_CONCEPT.md|HiVE CONCEPT]] — Communication
+- 🔴 [[Artisans/Bordeaux/Bordeaux_Service_Globe_Travel.md|Globe Travel]] — Service
+- 🟢 [[Artisans/Bordeaux/Bordeaux_Auto-école_FAME_de_Bordeaux.md|FAME de Bordeaux]] — Auto-école
+- 🔴 [[Artisans/Bordeaux/Bordeaux_Service_Copies_Chartrons.md|Copies Chartrons]] — Service
+- 🔴 [[Artisans/Bordeaux/Bordeaux_Service_Comptoir_des_Voyages.md|Comptoir des Voyages]] — Service
+- 🟢 [[Artisans/Bordeaux/Bordeaux_Carrossier_Color_Auto.md|Color Auto]] — Carrossier
+- 🟢 [[Artisans/Bordeaux/Bordeaux_Orthophoniste_Clelie_Delpech_Orthophoniste.md|Clélie Delpech - Orthophoniste]] — Orthophoniste
+- 🟢 [[Artisans/Bordeaux/Bordeaux_Orthophoniste_Charlotte_Savard_Orthophoniste.md|Charlotte Savard - Orthophoniste]] — Orthophoniste
+- 🟢 [[Artisans/Bordeaux/Bordeaux_Auto-école_Auto_Ecole_VK.md|Auto Ecole VK]] — Auto-école
+- 🟢 [[Artisans/Bordeaux/Bordeaux_Orthophoniste_Anne_Chanalet_Orthophoniste.md|Anne Chanalet - Orthophoniste]] — Orthophoniste
+- 🟢 [[Artisans/Bordeaux/Bordeaux_Kinésiologue_Amandine_Palmer_Brassens_Kinesiologue.md|Amandine Palmer-Brassens - Kinésiologue]] — Kinésiologue
+- 🟡 [[Artisans/Bordeaux/Bordeaux_Événementiel_Agence_Jour_Ferie.md|Agence Jour Férié]] — Événementiel
+- 🔴 [[Artisans/Bordeaux/Bordeaux_Immobilier_Agence_Immobiliere_Bordeaux_Cauderan.md|Agence Immobilière Bordeaux (Caudéran)]] — Immobilier
+- 🔴 [[Artisans/Bordeaux/Bordeaux_Service_AB_Courtage_Bordeaux.md|AB Courtage Bordeaux]] — Service
 
 - 🟢 [[Artisans/Bordeaux/Bordeaux_Service_Yako.md|Yako]] — Service
 - 🟢 [[Artisans/Bordeaux/Bordeaux_Notaire_Yaigre_Notaires_Associes.md|Yaigre Notaires Associés]] — Notaire

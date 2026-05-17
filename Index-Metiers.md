@@ -74,6 +74,7 @@
 
 ### 📍 Lormont (2)
 
+- 🔵 [[Artisans/Lormont/Lormont_Garage_Garage_Albert.md|Garage Albert]] [à_contacter]
 - 🔵 [[Commerces/Lormont/Lormont_Garage_Garage_Garcia.md|Garage Garcia]] [à_contacter]
 - 🔵 [[Commerces/Lormont/Lormont_Garage_Reparauto.md|Repar'auto]] [à_contacter]
 
@@ -393,8 +394,41 @@
 ## Service (0)
 
 
+### 📍 Mérignac (1)
+
+
+### 📍 Blanquefort (1)
+
+- 🔵 [[Artisans/Mérignac/Mérignac_Service_Sophie_MADRE_Slide_Studio.md|Sophie MADRE - Slide Studio]] [à_contacter]
+
+- 🔵 [[Artisans/Blanquefort/Blanquefort_Service_Rincon_EURL.md|Rincon EURL]] [à_contacter]
 ### 📍 Bordeaux (36)
 
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Service_Voyage_en_francais.md|Voyage en français]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Service_Total_Heaven.md|Total Heaven]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Service_TEP_Conseil.md|TEP Conseil]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Service_Superplanner_Bordeaux.md|Superplanner Bordeaux]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Service_Studio_Fabienne_Chaumet.md|Studio Fabienne Chaumet]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Service_Studio_3i.md|Studio 3i]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Service_Sprint_Copie.md|Sprint Copie]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Service_Smart_Green_Corner.md|Smart Green Corner]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Service_Quvee.md|Quvee]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Service_Nuage_et_Eau.md|Nuage et Eau]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Service_Nextep_HR.md|Nextep HR]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Service_Le_Boudoir_Sonore.md|Le Boudoir Sonore]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Service_Le_Balancier.md|Le Balancier]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Service_La_Parenthese.md|La Parenthèse]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Service_La_Mauvaise_Reputation.md|La Mauvaise Réputation]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Service_La_Maison_du_Glacier.md|La Maison du Glacier]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Service_La_Creperie_dAlba.md|La Crêperie d'Alba]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Service_LAtelier_du_48.md|L'Atelier du 48]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Service_Kuro_Espresso_Bar.md|Kuro Espresso Bar]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Service_Kathy_Masse_Lamarr.md|Kathy Massé-Lamarr]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Service_IL_ETAIT_UNE_FOIS_POUR_REVER.md|IL ETAIT UNE FOIS POUR REVER]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Service_Globe_Travel.md|Globe Travel]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Service_Copies_Chartrons.md|Copies Chartrons]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Service_Comptoir_des_Voyages.md|Comptoir des Voyages]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Service_AB_Courtage_Bordeaux.md|AB Courtage Bordeaux]] [à_contacter]
 - 🔵 [[Artisans/Bordeaux/Bordeaux_Service_5th_Avenue_Barber_Shop.md|5th Avenue Barber Shop]] [à_contacter]
 - 🔵 [[Artisans/Bordeaux/Bordeaux_Service_Yako.md|Yako]] [à_contacter]
 - 🔵 [[Artisans/Bordeaux/Bordeaux_Service_VOLENNA.md|VOLENNA]] [à_contacter]
@@ -461,3 +495,158 @@
 
 - 🔵 [[Artisans/Bordeaux/Bordeaux_Toiletteur_Au_Chien_Beaute.md|Au Chien Beauté]] [à_contacter]
 - 🔵 [[Artisans/Bordeaux/Bordeaux_Toiletteur_Toilettage_Mobile_Bordeaux.md|Toilettage Mobile Bordeaux]] [à_contacter]
+
+## Auto-école (0)
+
+
+### 📍 Bordeaux (2)
+
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Auto-école_Auto_Ecole_VK.md|Auto Ecole VK]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Auto-école_FAME_de_Bordeaux.md|FAME de Bordeaux]] [à_contacter]
+
+## Carrossier (0)
+
+
+### 📍 Saint-Caprais-de-Bordeaux (1)
+
+
+### 📍 Bordeaux (1)
+
+- 🔵 [[Artisans/Saint-Caprais-de-Bordeaux/Saint-Caprais-de-Bordeaux_Carrossier_Carrosserie_Saint_Capraisienne.md|Carrosserie Saint Capraisienne]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Carrossier_Color_Auto.md|Color Auto]] [à_contacter]
+
+## Chocolatier (0)
+
+
+### 📍 Bordeaux (1)
+
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Chocolatier_Les_Chocolats_de_lIntendance.md|Les Chocolats de l'Intendance]] [à_contacter]
+
+## Communication (0)
+
+
+### 📍 Bordeaux (1)
+
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Communication_HiVE_CONCEPT.md|HiVE CONCEPT]] [à_contacter]
+
+## Déménageur (0)
+
+
+### 📍 Talence (1)
+
+
+### 📍 Pessac (1)
+
+- 🔵 [[Artisans/Talence/Talence_Déménageur_Chapuis_Florian.md|Chapuis Florian]] [à_contacter]
+
+### 📍 Bordeaux (1)
+
+- 🔵 [[Artisans/Pessac/Pessac_Déménageur_PrestaDEM.md|Presta'DEM]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Déménageur_Larnaudie_Demenagements.md|Larnaudie Déménagements]] [à_contacter]
+
+## Immobilier (0)
+
+
+### 📍 Bordeaux (2)
+
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Immobilier_Agence_Immobiliere_Bordeaux_Cauderan.md|Agence Immobilière Bordeaux (Caudéran)]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Immobilier_Selection_Bordelaise.md|Sélection Bordelaise]] [à_contacter]
+
+## Kinésiologue (0)
+
+
+### 📍 Bordeaux (2)
+
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Kinésiologue_Amandine_Palmer_Brassens_Kinesiologue.md|Amandine Palmer-Brassens - Kinésiologue]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Kinésiologue_Sonia_Benisty_Kinesiologue.md|Sonia Benisty - Kinésiologue]] [à_contacter]
+
+## Librairie (0)
+
+
+### 📍 Bordeaux (1)
+
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Librairie_Librairie_disque_MICITA.md|Librairie-disque MICITA]] [à_contacter]
+
+## Location (0)
+
+
+### 📍 Bordeaux (1)
+
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Location_Locakou.md|Locakou]] [à_contacter]
+
+## Micro-crèche (0)
+
+
+### 📍 Bordeaux (1)
+
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Micro-crèche_Micro_Creche_Youbee_For_Kids.md|Micro-Crèche Youbee For Kids]] [à_contacter]
+
+## Nettoyage (0)
+
+
+### 📍 Gradignan (1)
+
+- 🔵 [[Artisans/Gradignan/Gradignan_Nettoyage_Pronet_Services.md|Pronet Services]] [à_contacter]
+
+## Orthophoniste (0)
+
+
+### 📍 Bordeaux (8)
+
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Orthophoniste_Anne_Chanalet_Orthophoniste.md|Anne Chanalet - Orthophoniste]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Orthophoniste_Virginie_Berland_Orthophoniste.md|Virginie Berland - Orthophoniste]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Orthophoniste_Tiphaine_Guilon_Le_Goff_Orthophoniste.md|Tiphaine Guilon Le Goff - Orthophoniste]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Orthophoniste_Severine_Delpech_Orthophoniste.md|Séverine Delpech - Orthophoniste]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Orthophoniste_Lorette_Juret_Orthophoniste.md|Lorette Juret - Orthophoniste]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Orthophoniste_Helene_Passemard_Orthophoniste.md|Hélène Passemard - Orthophoniste]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Orthophoniste_Clelie_Delpech_Orthophoniste.md|Clélie Delpech - Orthophoniste]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Orthophoniste_Charlotte_Savard_Orthophoniste.md|Charlotte Savard - Orthophoniste]] [à_contacter]
+
+## Psychologue (0)
+
+
+### 📍 Bordeaux (2)
+
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Psychologue_Jerome_Jourdanet_Psychologue.md|Jérôme Jourdanet - Psychologue]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Psychologue_Nathalie_Trebucq_Psychologue.md|Nathalie Trebucq - Psychologue]] [à_contacter]
+
+## Sécurité (0)
+
+
+### 📍 Lormont (1)
+
+
+### 📍 Bordeaux (1)
+
+- 🔵 [[Artisans/Lormont/Lormont_Sécurité_BEE_SECURE.md|BEE SECURE]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Sécurité_KS_Protection.md|KS Protection]] [à_contacter]
+
+## Théâtre (0)
+
+
+### 📍 Bordeaux (2)
+
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Théâtre_La_Pergola.md|La Pergola]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Théâtre_Le_Poquelin_Theatre.md|Le Poquelin Théâtre]] [à_contacter]
+
+## Transporteur (0)
+
+
+### 📍 Talence (2)
+
+- 🔵 [[Artisans/Talence/Talence_Transporteur_Gauvin_Cedric.md|Gauvin Cédric]] [à_contacter]
+- 🔵 [[Artisans/Talence/Talence_Transporteur_VLJ_Transports.md|VLJ Transports]] [à_contacter]
+
+## Vétérinaire (0)
+
+
+### 📍 Bordeaux (1)
+
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Vétérinaire_Jerome_Brochet_Veterinaire.md|Jérôme Brochet - Vétérinaire]] [à_contacter]
+
+## Événementiel (0)
+
+
+### 📍 Bordeaux (1)
+
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Événementiel_Agence_Jour_Ferie.md|Agence Jour Férié]] [à_contacter]

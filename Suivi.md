@@ -179,3 +179,66 @@
 | 173 | 🔵 VOLENNA | Artisan | Bordeaux | à_contacter | 🟢 basse | 06 12 29 36 49 | volenna@gmail.com | [[Artisans/Bordeaux/Bordeaux_Service_VOLENNA.md]] |
 | 174 | 🔵 Yaigre Notaires Associés | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 56 00 88 11 | — | [[Artisans/Bordeaux/Bordeaux_Notaire_Yaigre_Notaires_Associes.md]] |
 | 175 | 🔵 Yako | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 56 81 72 39 | — | [[Artisans/Bordeaux/Bordeaux_Service_Yako.md]] |
+| 176 | 🔵 AB Courtage Bordeaux | Artisan | Bordeaux | à_contacter | 🔴 haute | 09 83 62 25 00 | — | [[Artisans/Bordeaux/Bordeaux_Service_AB_Courtage_Bordeaux.md]] |
+| 177 | 🔵 Agence Immobilière Bordeaux (Caudéran) | Artisan | Bordeaux | à_contacter | 🔴 haute | 05 33 05 16 98 | — | [[Artisans/Bordeaux/Bordeaux_Immobilier_Agence_Immobiliere_Bordeaux_Cauderan.md]] |
+| 178 | 🔵 Agence Jour Férié | Artisan | Bordeaux | à_contacter | 🟡 moyenne | 06 28 21 98 32 | — | [[Artisans/Bordeaux/Bordeaux_Événementiel_Agence_Jour_Ferie.md]] |
+| 179 | 🔵 Amandine Palmer-Brassens - Kinésiologue | Artisan | Bordeaux | à_contacter | 🟢 basse | 06 34 28 20 26 | — | [[Artisans/Bordeaux/Bordeaux_Kinésiologue_Amandine_Palmer_Brassens_Kinesiologue.md]] |
+| 180 | 🔵 Anne Chanalet - Orthophoniste | Artisan | Bordeaux | à_contacter | 🟢 basse | 06 02 08 65 31 | — | [[Artisans/Bordeaux/Bordeaux_Orthophoniste_Anne_Chanalet_Orthophoniste.md]] |
+| 181 | 🔵 Auto Ecole VK | Artisan | Bordeaux | à_contacter | 🟢 basse | 06 31 29 01 20 | — | [[Artisans/Bordeaux/Bordeaux_Auto-école_Auto_Ecole_VK.md]] |
+| 182 | 🔵 BEE SECURE | Artisan | Lormont | à_contacter | 🟡 moyenne | 07 61 69 05 85 | contact@b-secure.fr | [[Artisans/Lormont/Lormont_Sécurité_BEE_SECURE.md]] |
+| 183 | 🔵 Carrosserie Saint Capraisienne | Artisan | Saint-Caprais-de-Bordeaux | à_contacter | 🟡 moyenne | 05 56 30 01 49 | — | [[Artisans/Saint-Caprais-de-Bordeaux/Saint-Caprais-de-Bordeaux_Carrossier_Carrosserie_Saint_Capraisienne.md]] |
+| 184 | 🔵 Chapuis Florian | Artisan | Talence | à_contacter | 🟢 basse | 05 56 37 10 81 | — | [[Artisans/Talence/Talence_Déménageur_Chapuis_Florian.md]] |
+| 185 | 🔵 Charlotte Savard - Orthophoniste | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 56 08 00 76 | — | [[Artisans/Bordeaux/Bordeaux_Orthophoniste_Charlotte_Savard_Orthophoniste.md]] |
+| 186 | 🔵 Clélie Delpech - Orthophoniste | Artisan | Bordeaux | à_contacter | 🟢 basse | 07 49 24 40 44 | — | [[Artisans/Bordeaux/Bordeaux_Orthophoniste_Clelie_Delpech_Orthophoniste.md]] |
+| 187 | 🔵 Color Auto | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 56 79 15 15 | magic.claverie@orange.fr | [[Artisans/Bordeaux/Bordeaux_Carrossier_Color_Auto.md]] |
+| 188 | 🔵 Comptoir des Voyages | Artisan | Bordeaux | à_contacter | 🔴 haute | 05 35 54 31 40 | — | [[Artisans/Bordeaux/Bordeaux_Service_Comptoir_des_Voyages.md]] |
+| 189 | 🔵 Copies Chartrons | Artisan | Bordeaux | à_contacter | 🔴 haute | 05 56 01 13 13 | — | [[Artisans/Bordeaux/Bordeaux_Service_Copies_Chartrons.md]] |
+| 190 | 🔵 FAME de Bordeaux | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 56 69 88 64 | auto.ecole.fame@gmail.com | [[Artisans/Bordeaux/Bordeaux_Auto-école_FAME_de_Bordeaux.md]] |
+| 191 | 🔵 Garage Albert | Artisan | Lormont | à_contacter | 🟡 moyenne | 05 56 31 60 61 | — | [[Artisans/Lormont/Lormont_Garage_Garage_Albert.md]] |
+| 192 | 🔵 Gauvin Cédric | Artisan | Talence | à_contacter | 🟢 basse | 06 21 72 66 29 | — | [[Artisans/Talence/Talence_Transporteur_Gauvin_Cedric.md]] |
+| 193 | 🔵 Globe Travel | Artisan | Bordeaux | à_contacter | 🔴 haute | 05 57 95 70 36 | — | [[Artisans/Bordeaux/Bordeaux_Service_Globe_Travel.md]] |
+| 194 | 🔵 HiVE CONCEPT | Artisan | Bordeaux | à_contacter | 🟡 moyenne | 09 61 32 07 56 | — | [[Artisans/Bordeaux/Bordeaux_Communication_HiVE_CONCEPT.md]] |
+| 195 | 🔵 Hélène Passemard - Orthophoniste | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 56 52 44 84 | — | [[Artisans/Bordeaux/Bordeaux_Orthophoniste_Helene_Passemard_Orthophoniste.md]] |
+| 196 | 🔵 IL ETAIT UNE FOIS POUR REVER | Artisan | Bordeaux | à_contacter | 🟡 moyenne | 06 80 90 52 70 | — | [[Artisans/Bordeaux/Bordeaux_Service_IL_ETAIT_UNE_FOIS_POUR_REVER.md]] |
+| 197 | 🔵 Jérôme Brochet - Vétérinaire | Artisan | Bordeaux | à_contacter | 🟡 moyenne | 05 56 08 46 48 | — | [[Artisans/Bordeaux/Bordeaux_Vétérinaire_Jerome_Brochet_Veterinaire.md]] |
+| 198 | 🔵 Jérôme Jourdanet - Psychologue | Artisan | Bordeaux | à_contacter | 🟢 basse | 06 52 62 90 60 | — | [[Artisans/Bordeaux/Bordeaux_Psychologue_Jerome_Jourdanet_Psychologue.md]] |
+| 199 | 🔵 KS Protection | Artisan | Bordeaux | à_contacter | 🟢 basse | 06 52 24 21 57 | direction@ks-protection.fr | [[Artisans/Bordeaux/Bordeaux_Sécurité_KS_Protection.md]] |
+| 200 | 🔵 Kathy Massé-Lamarr | Artisan | Bordeaux | à_contacter | 🟢 basse | 06 82 32 76 45 | ecoledanse33@gmail.com | [[Artisans/Bordeaux/Bordeaux_Service_Kathy_Masse_Lamarr.md]] |
+| 201 | 🔵 Kuro Espresso Bar | Artisan | Bordeaux | à_contacter | 🔴 haute | 06 37 65 91 29 | — | [[Artisans/Bordeaux/Bordeaux_Service_Kuro_Espresso_Bar.md]] |
+| 202 | 🔵 L'Atelier du 48 | Artisan | Bordeaux | à_contacter | 🟡 moyenne | 07 52 60 34 02 | — | [[Artisans/Bordeaux/Bordeaux_Service_LAtelier_du_48.md]] |
+| 203 | 🔵 La Crêperie d'Alba | Artisan | Bordeaux | à_contacter | 🔴 haute | 05 56 51 02 33 | — | [[Artisans/Bordeaux/Bordeaux_Service_La_Creperie_dAlba.md]] |
+| 204 | 🔵 La Maison du Glacier | Artisan | Bordeaux | à_contacter | 🔴 haute | 05 40 54 65 96 | — | [[Artisans/Bordeaux/Bordeaux_Service_La_Maison_du_Glacier.md]] |
+| 205 | 🔵 La Mauvaise Réputation | Artisan | Bordeaux | à_contacter | 🔴 haute | 05 56 79 73 54 | — | [[Artisans/Bordeaux/Bordeaux_Service_La_Mauvaise_Reputation.md]] |
+| 206 | 🔵 La Parenthèse | Artisan | Bordeaux | à_contacter | 🔴 haute | 06 81 65 63 48 | — | [[Artisans/Bordeaux/Bordeaux_Service_La_Parenthese.md]] |
+| 207 | 🔵 La Pergola | Artisan | Bordeaux | à_contacter | 🟡 moyenne | 05 56 02 62 04 | — | [[Artisans/Bordeaux/Bordeaux_Théâtre_La_Pergola.md]] |
+| 208 | 🔵 Larnaudie Déménagements | Artisan | Bordeaux | à_contacter | 🟡 moyenne | 05 56 91 31 26 | contact@larnaudie-dem.com | [[Artisans/Bordeaux/Bordeaux_Déménageur_Larnaudie_Demenagements.md]] |
+| 209 | 🔵 Le Balancier | Artisan | Bordeaux | à_contacter | 🟡 moyenne | 09 81 87 59 95 | — | [[Artisans/Bordeaux/Bordeaux_Service_Le_Balancier.md]] |
+| 210 | 🔵 Le Boudoir Sonore | Artisan | Bordeaux | à_contacter | 🔴 haute | 06 73 12 38 70 | — | [[Artisans/Bordeaux/Bordeaux_Service_Le_Boudoir_Sonore.md]] |
+| 211 | 🔵 Le Poquelin Théâtre | Artisan | Bordeaux | à_contacter | 🟡 moyenne | 06 87 54 96 05 | — | [[Artisans/Bordeaux/Bordeaux_Théâtre_Le_Poquelin_Theatre.md]] |
+| 212 | 🔵 Les Chocolats de l'Intendance | Artisan | Bordeaux | à_contacter | 🟡 moyenne | 05 57 83 72 41 | — | [[Artisans/Bordeaux/Bordeaux_Chocolatier_Les_Chocolats_de_lIntendance.md]] |
+| 213 | 🔵 Librairie-disque MICITA | Artisan | Bordeaux | à_contacter | 🟡 moyenne | 09 81 32 18 57 | — | [[Artisans/Bordeaux/Bordeaux_Librairie_Librairie_disque_MICITA.md]] |
+| 214 | 🔵 Locakou | Artisan | Bordeaux | à_contacter | 🟢 basse | 06 99 77 75 45 | contact@locakou.com | [[Artisans/Bordeaux/Bordeaux_Location_Locakou.md]] |
+| 215 | 🔵 Lorette Juret - Orthophoniste | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 57 10 75 12 | — | [[Artisans/Bordeaux/Bordeaux_Orthophoniste_Lorette_Juret_Orthophoniste.md]] |
+| 216 | 🔵 Micro-Crèche Youbee For Kids | Artisan | Bordeaux | à_contacter | 🟢 basse | 06 70 70 06 31 | — | [[Artisans/Bordeaux/Bordeaux_Micro-crèche_Micro_Creche_Youbee_For_Kids.md]] |
+| 217 | 🔵 Nathalie Trebucq - Psychologue | Artisan | Bordeaux | à_contacter | 🟢 basse | 06 87 70 79 34 | — | [[Artisans/Bordeaux/Bordeaux_Psychologue_Nathalie_Trebucq_Psychologue.md]] |
+| 218 | 🔵 Nextep HR | Artisan | Bordeaux | à_contacter | 🟡 moyenne | 07 48 15 31 88 | — | [[Artisans/Bordeaux/Bordeaux_Service_Nextep_HR.md]] |
+| 219 | 🔵 Nuage et Eau | Artisan | Bordeaux | à_contacter | 🟢 basse | 07 81 26 13 29 | contact@nuageeteau.fr | [[Artisans/Bordeaux/Bordeaux_Service_Nuage_et_Eau.md]] |
+| 220 | 🔵 Presta'DEM | Artisan | Pessac | à_contacter | 🟢 basse | 07 62 16 69 23 | — | [[Artisans/Pessac/Pessac_Déménageur_PrestaDEM.md]] |
+| 221 | 🔵 Pronet Services | Artisan | Gradignan | à_contacter | 🟢 basse | 05 40 24 62 26 | contact@pronetservices.net | [[Artisans/Gradignan/Gradignan_Nettoyage_Pronet_Services.md]] |
+| 222 | 🔵 Quvee | Artisan | Bordeaux | à_contacter | 🟡 moyenne | 05 40 12 36 24 | bastide@quvee.fr | [[Artisans/Bordeaux/Bordeaux_Service_Quvee.md]] |
+| 223 | 🔵 Rincon EURL | Artisan | Blanquefort | à_contacter | 🟢 basse | 05 56 28 57 03 | contact@rincon-eurl.fr | [[Artisans/Blanquefort/Blanquefort_Service_Rincon_EURL.md]] |
+| 224 | 🔵 Smart Green Corner | Artisan | Bordeaux | à_contacter | 🟡 moyenne | 05 56 23 17 55 | — | [[Artisans/Bordeaux/Bordeaux_Service_Smart_Green_Corner.md]] |
+| 225 | 🔵 Sonia Benisty - Kinésiologue | Artisan | Bordeaux | à_contacter | 🟢 basse | 06 31 13 27 44 | — | [[Artisans/Bordeaux/Bordeaux_Kinésiologue_Sonia_Benisty_Kinesiologue.md]] |
+| 226 | 🔵 Sophie MADRE - Slide Studio | Artisan | Mérignac | à_contacter | 🟡 moyenne | 06 22 25 73 56 | studiomelanie@protonmail.com | [[Artisans/Mérignac/Mérignac_Service_Sophie_MADRE_Slide_Studio.md]] |
+| 227 | 🔵 Sprint Copie | Artisan | Bordeaux | à_contacter | 🟡 moyenne | 05 56 81 47 14 | — | [[Artisans/Bordeaux/Bordeaux_Service_Sprint_Copie.md]] |
+| 228 | 🔵 Studio 3i | Artisan | Bordeaux | à_contacter | 🟡 moyenne | 06 30 32 59 76 | — | [[Artisans/Bordeaux/Bordeaux_Service_Studio_3i.md]] |
+| 229 | 🔵 Studio Fabienne Chaumet | Artisan | Bordeaux | à_contacter | 🟡 moyenne | 06 73 01 42 54 | — | [[Artisans/Bordeaux/Bordeaux_Service_Studio_Fabienne_Chaumet.md]] |
+| 230 | 🔵 Superplanner Bordeaux | Artisan | Bordeaux | à_contacter | 🟡 moyenne | 06 28 21 98 32 | — | [[Artisans/Bordeaux/Bordeaux_Service_Superplanner_Bordeaux.md]] |
+| 231 | 🔵 Sélection Bordelaise | Artisan | Bordeaux | à_contacter | 🔴 haute | 06 11 46 41 16 | — | [[Artisans/Bordeaux/Bordeaux_Immobilier_Selection_Bordelaise.md]] |
+| 232 | 🔵 Séverine Delpech - Orthophoniste | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 56 23 96 85 | — | [[Artisans/Bordeaux/Bordeaux_Orthophoniste_Severine_Delpech_Orthophoniste.md]] |
+| 233 | 🔵 TEP Conseil | Artisan | Bordeaux | à_contacter | 🟢 basse | 06 32 39 44 11 | — | [[Artisans/Bordeaux/Bordeaux_Service_TEP_Conseil.md]] |
+| 234 | 🔵 Tiphaine Guilon Le Goff - Orthophoniste | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 56 50 74 88 | — | [[Artisans/Bordeaux/Bordeaux_Orthophoniste_Tiphaine_Guilon_Le_Goff_Orthophoniste.md]] |
+| 235 | 🔵 Total Heaven | Artisan | Bordeaux | à_contacter | 🔴 haute | 05 56 31 31 03 | — | [[Artisans/Bordeaux/Bordeaux_Service_Total_Heaven.md]] |
+| 236 | 🔵 VLJ Transports | Artisan | Talence | à_contacter | 🟢 basse | 06 63 31 91 33 | — | [[Artisans/Talence/Talence_Transporteur_VLJ_Transports.md]] |
+| 237 | 🔵 Virginie Berland - Orthophoniste | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 57 81 89 16 | — | [[Artisans/Bordeaux/Bordeaux_Orthophoniste_Virginie_Berland_Orthophoniste.md]] |
+| 238 | 🔵 Voyage en français | Artisan | Bordeaux | à_contacter | 🔴 haute | 05 56 52 96 36 | — | [[Artisans/Bordeaux/Bordeaux_Service_Voyage_en_francais.md]] |
