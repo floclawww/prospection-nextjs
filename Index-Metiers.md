@@ -2,88 +2,235 @@
 
 *Navigation rapide par métier, puis par ville*
 
-##  (6)
+## Boulangerie (6)
 
-### 📍 France (4)
+### 📍 Cenon (2)
 
-- 🔵 [[Fast-Food/France/France_Fast-Food_Alfred.md|Alfred Burger]] [à_contacter]
-- 🔵 [[Fast-Food/France/France_Fast-Food_Junk_Burgers.md|Junk Burgers]] [à_contacter]
-- 🔵 [[Fast-Food/France/France_Fast-Food_Bchef.md|Bchef]] [à_contacter]
-- 🔵 [[Fast-Food/France/France_Fast-Food_Les_Burgers_de_Papa.md|Les Burgers de Papa]] [à_contacter]
+- 🔵 [[Fast-Food/Cenon/Cenon_Boulangerie_Fournil_de_lUnivers.md|Fournil de l'Univers]] [à_contacter]
+- 🔵 [[Fast-Food/Cenon/Cenon_Boulangerie_La_Cassagne.md|La Cassagne]] [à_contacter]
 
-### 📍 France (national) (1)
+### 📍 Pessac (3)
 
-- 🔵 [[Fast-Food/France_national/France_national_Fast-Food_Ckebab.md|Ckebab]] [à_contacter]
+- 🔵 [[Fast-Food/Pessac/Pessac_Boulangerie_Berenils.md|Berenils]] [à_contacter]
+- 🔵 [[Fast-Food/Pessac/Pessac_Boulangerie_Boulangerie_Honore_Pessac.md|Boulangerie Honoré Pessac]] [à_contacter]
+- 🔵 [[Fast-Food/Pessac/Pessac_Boulangerie_Des_Pains_Qui_Parlent.md|Des Pains Qui Parlent]] [à_contacter]
 
-### 📍 Paris / France (1)
+### 📍 Talence (1)
 
-- 🔵 [[Fast-Food/Paris_France/Paris_France_Fast-Food_Bio.md|Bio Burger]] [à_contacter]
+- 🔵 [[Fast-Food/Talence/Talence_Boulangerie_Boulangerie_du_Forum.md|Boulangerie du Forum]] [à_contacter]
 
-## Couvreur (1)
+## Chauffagiste (3)
 
-### 📍 Hossegor (1)
+### 📍 Bordeaux (3)
 
-- 🔵 [[Artisans/Hossegor/Hossegor_Couvreur_Eco_Renovation_Toiture_et_Facades.md|Eco Renovation Toiture et Facades]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Chauffagiste_ALPHA_ENERGIE_33.md|ALPHA ENERGIE 33]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Chauffagiste_Chauffage_33.md|Chauffage 33]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Chauffagiste_Cyclo_Chauff.md|Cyclo Chauff']] [à_contacter]
 
-## Électricien (14)
+## Coiffeur (6)
 
-### 📍 Bordeaux (12)
+### 📍 Bordeaux (4)
 
-- 🔵 [[Artisans/Bordeaux/Bordeaux_Électricien_Services_de_qualité_pour_tous_.md|🔌   Services de qualité pour tous vos besoins électriques 🔌]] [à_contacter]
-- 🔵 [[Artisans/Bordeaux/Bordeaux_Électricien_rapide.md|Accueil   rapide]] [à_contacter]
-- 🔵 [[Artisans/Bordeaux/Bordeaux_Électricien_Travaux_Dépannage_urgent.md|: Travaux & Dépannage urgent]] [à_contacter]
-- 🔵 [[Artisans/Bordeaux/Bordeaux_Électricien_à_CVC_installation_de_borne_de.md|à  CVC & installation de borne de recharge]] [à_contacter]
-- 🔵 [[Artisans/Bordeaux/Bordeaux_Électricien_à_-_Force_Electricité.md|à - Force Electricité]] [à_contacter]
-- 🔵 [[Artisans/Bordeaux/Bordeaux_Électricien_Électricité_Grand-Clément.md|Accueil Électricité Grand-Clément]] [à_contacter]
-- 🔵 [[Artisans/Bordeaux/Bordeaux_Électricien_Entreprise_délectricité_Talenc.md|Entreprise d'électricité  Talence  ÉCLAIR ELEC]] [à_contacter]
-- 🔵 [[Artisans/Bordeaux/Bordeaux_Électricien_SpizizzOhm.md|Accueil Spizizz'Ohm]] [à_contacter]
-- 🔵 [[Artisans/Bordeaux/Bordeaux_Électricien_BRUCELEC_Dépannage_Installatio.md|BRUCELEC — Dépannage & Installation]] [à_contacter]
-- 🔵 [[Artisans/Bordeaux/Bordeaux_Électricien_IDEA_ELEC.md|IDEA ELEC]] [à_contacter]
-- 🔵 [[Artisans/Bordeaux/Bordeaux_Électricien_GMBS.md|GMBS]] [à_contacter]
-- 🔵 [[Artisans/Bordeaux/Bordeaux_Électricien_RP_Elec_33.md|,  RP Elec 33]] [à_contacter]
+- 🔵 [[Commerces/Bordeaux/Bordeaux_Coiffeur_Hair_Evasion.md|Hair Evasion]] [à_contacter]
+- 🔵 [[Commerces/Bordeaux/Bordeaux_Coiffeur_Laura_Coiffure.md|Laura Coiffure]] [à_contacter]
+- 🔵 [[Commerces/Bordeaux/Bordeaux_Coiffeur_Salon_Celine.md|Salon Céline]] [à_contacter]
+- 🔵 [[Commerces/Bordeaux/Bordeaux_Coiffeur_Salon_Expression_AP.md|Salon Expression (A.P.)]] [à_contacter]
 
-### 📍 Hossegor (1)
+### 📍 Cenon (2)
 
-- 🔵 [[Artisans/Hossegor/Hossegor_Électricien_Hossegor_Electricite.md|Hossegor Electricite]] [à_contacter]
+- 🔵 [[Commerces/Cenon/Cenon_Coiffeur_Celia_D.md|Célia D]] [à_contacter]
+- 🔵 [[Commerces/Cenon/Cenon_Coiffeur_Zeynep_Coiffure.md|Zeynep Coiffure]] [à_contacter]
 
-### 📍 Angresse (1)
+## Esthétique (4)
 
-- 🔵 [[Artisans/Hossegor/Angresse_Électricien_40_Amperes_Letort_Electricite.md|40 Amperes Letort Electricite]] [à_contacter]
+### 📍 Bordeaux (4)
 
-## Maçon (2)
+- 🔵 [[Commerces/Bordeaux/Bordeaux_Esthétique_Aux_bons_soins_de_Lea.md|Aux bons soins de Léa]] [à_contacter]
+- 🔵 [[Commerces/Bordeaux/Bordeaux_Esthétique_Beaute_Bien_Etre.md|Beauté & Bien-Être]] [à_contacter]
+- 🔵 [[Commerces/Bordeaux/Bordeaux_Esthétique_Institut_Lecabel.md|Institut Lecabel]] [à_contacter]
+- 🔵 [[Commerces/Bordeaux/Bordeaux_Esthétique_Secret_Beaute.md|Secret Beauté]] [à_contacter]
 
-### 📍 Hossegor (1)
+## Fleuriste (1)
 
-- 🔵 [[Artisans/Hossegor/Hossegor_Maçon_Carlos_Moura_Construction.md|Carlos Moura Construction]] [à_contacter]
+### 📍 Le Bouscat (1)
 
-### 📍 Angresse (1)
+- 🔵 [[Commerces/Le Bouscat/Le Bouscat_Fleuriste_Atelier_Floral.md|Atelier Floral]] [à_contacter]
 
-- 🔵 [[Artisans/Hossegor/Angresse_Maçon_Y_Lagoutte_Maconnerie.md|Y. Lagoutte Maconnerie]] [à_contacter]
+## Garage (7)
+
+### 📍 Bègles (4)
+
+- 🔵 [[Commerces/Bègles/Bègles_Garage_Garage_CGH_AUTO.md|Garage CGH AUTO]] [à_contacter]
+- 🔵 [[Commerces/Bègles/Bègles_Garage_Garage_CLESS.md|Garage CLESS]] [à_contacter]
+- 🔵 [[Commerces/Bègles/Bègles_Garage_Garage_J_Christophe_Gualde.md|Garage J Christophe Gualde]] [à_contacter]
+- 🔵 [[Commerces/Bègles/Bègles_Garage_Geko_Automobile.md|Geko Automobile]] [à_contacter]
+
+### 📍 Floirac (1)
+
+- 🔵 [[Commerces/Floirac/Floirac_Garage_AS_AUTO_SERVICES.md|AS AUTO SERVICES]] [à_contacter]
+
+### 📍 Lormont (2)
+
+- 🔵 [[Commerces/Lormont/Lormont_Garage_Garage_Garcia.md|Garage Garcia]] [à_contacter]
+- 🔵 [[Commerces/Lormont/Lormont_Garage_Reparauto.md|Repar'auto]] [à_contacter]
+
+## Informatique (1)
+
+### 📍 Talence (1)
+
+- 🔵 [[Artisans/Talence/Talence_Informatique_Docteur_PC_33.md|Docteur PC 33]] [à_contacter]
+
+## Laverie (2)
+
+### 📍 Cenon (2)
+
+- 🔵 [[Commerces/Cenon/Cenon_Laverie_Laverie_Auto_Cenon_Maregue.md|Laverie Auto Cenon Marègue]] [à_contacter]
+- 🔵 [[Commerces/Cenon/Cenon_Laverie_Laverie_Cenon_Floirac.md|Laverie Cenon Floirac]] [à_contacter]
 
 ## Menuisier (2)
 
-### 📍 Angresse (2)
+### 📍 Mérignac (1)
 
-- 🔵 [[Artisans/Hossegor/Angresse_Menuisier_AIE_Menuiserie.md|A.I.E. Menuiserie]] [à_contacter]
-- 🔵 [[Artisans/Hossegor/Angresse_Menuisier_JOP_Menuiserie.md|JOP Menuiserie]] [à_contacter]
+- 🔵 [[Artisans/Mérignac/Mérignac_Menuisier_CSAM_33.md|CSAM-33]] [à_contacter]
 
-## Peintre (4)
+### 📍 Pessac (1)
 
-### 📍 Hossegor (2)
+- 🔵 [[Artisans/Pessac/Pessac_Menuisier_Renovisol_33.md|Renovisol 33]] [à_contacter]
 
-- 🔵 [[Artisans/Hossegor/Hossegor_Peintre_SARL_Lagache_Peinture.md|SARL Lagache Peinture]] [à_contacter]
-- 🔵 [[Artisans/Hossegor/Hossegor_Peintre_EURL_Laborde_Sebastien_Peinture.md|EURL Laborde Sebastien Peinture]] [à_contacter]
+## Moto (2)
 
-### 📍 Angresse (2)
+### 📍 Bordeaux (2)
 
-- 🔵 [[Artisans/Hossegor/Angresse_Peintre_SL_Peinture.md|SL Peinture]] [à_contacter]
+- 🔵 [[Commerces/Bordeaux/Bordeaux_Moto_LAtelier_du_deux_roues.md|L'Atelier du deux roues]] [à_contacter]
+- 🔵 [[Commerces/Bordeaux/Bordeaux_Moto_Station_Scooter.md|Station Scooter]] [à_contacter]
 
-## Plombier (2)
+## Peintre (10)
 
-### 📍 Hossegor (1)
+### 📍 Bordeaux (5)
 
-- 🔵 [[Artisans/Hossegor/Hossegor_Plombier_Plomberie_Sanitaire_Revet_Aquitaine.md|Plomberie Sanitaire Revet Aquitaine]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Peintre_ALVEA_Peinture_Decoration.md|ALVEA Peinture Décoration]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Peintre_Felix_Cedric_Peinture.md|Felix Cédric Peinture]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Peintre_Nicolas_Lagueyterie_Peinture.md|Nicolas Lagueyterie Peinture]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Peintre_ST_Peinture.md|ST Peinture]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Peintre_Samuel_Peinture.md|Samuel Peinture]] [à_contacter]
 
-### 📍 Angresse (1)
+### 📍 Bruges (1)
 
-- 🔵 [[Artisans/Hossegor/Angresse_Plombier_Alternative_Plomberie.md|Alternative Plomberie]] [à_contacter]
+- 🔵 [[Artisans/Bruges/Bruges_Peintre_Pop_Peinture.md|Pop Peinture]] [à_contacter]
+
+### 📍 Bègles (1)
+
+- 🔵 [[Artisans/Bègles/Bègles_Peintre_Rodier_Multiservices.md|Rodier Multiservices]] [à_contacter]
+
+### 📍 Le Bouscat (1)
+
+- 🔵 [[Artisans/Le Bouscat/Le Bouscat_Peintre_Garance_Renovation.md|Garance Rénovation]] [à_contacter]
+
+### 📍 Pessac (1)
+
+- 🔵 [[Artisans/Pessac/Pessac_Peintre_CLIVAZ_Georges_Peinture.md|CLIVAZ Georges Peinture]] [à_contacter]
+
+### 📍 Talence (1)
+
+- 🔵 [[Artisans/Talence/Talence_Peintre_BALDO_MA_Peinture.md|BALDO MA Peinture]] [à_contacter]
+
+## Pizzeria (3)
+
+### 📍 Bègles (1)
+
+- 🔵 [[Fast-Food/Bègles/Bègles_Pizzeria_Papi_Louis.md|Papi Louis]] [à_contacter]
+
+### 📍 Cenon (2)
+
+- 🔵 [[Fast-Food/Cenon/Cenon_Pizzeria_La_Roma_Pizza_Cenon.md|La Roma Pizza Cenon]] [à_contacter]
+- 🔵 [[Fast-Food/Cenon/Cenon_Pizzeria_Pizza_Di_Mama_Cenon.md|Pizza Di Mama Cenon]] [à_contacter]
+
+## Plombier (4)
+
+### 📍 Bordeaux (4)
+
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Plombier_Baroumes.md|Baroumes]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Plombier_Cornaglia_SARL_D.md|Cornaglia SARL D.]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Plombier_Didier_Desbordes.md|Didier Desbordes]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Plombier_EURL_MEGARDON.md|EURL MEGARDON]] [à_contacter]
+
+## Plâtrier (3)
+
+### 📍 Bordeaux (2)
+
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Plâtrier_Bretou_Bdeco.md|Bretou Bdeco]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Plâtrier_PGB_Platrier_Plaquiste.md|PGB Plâtrier Plaquiste]] [à_contacter]
+
+### 📍 Bordeaux / Bruges (1)
+
+- 🔵 [[Artisans/Bordeaux_Bruges/Bordeaux_Bruges_Plâtrier_Etablissements_Sabron_et_Fils.md|Etablissements Sabron et Fils]] [à_contacter]
+
+## Restaurant (6)
+
+### 📍 Bruges (1)
+
+- 🔵 [[Fast-Food/Bruges/Bruges_Restaurant_Le_Bistrot_dAntan.md|Le Bistrot d'Antan]] [à_contacter]
+
+### 📍 Bègles (1)
+
+- 🔵 [[Fast-Food/Bègles/Bègles_Restaurant_Le_Mancicidor.md|Le Mancicidor]] [à_contacter]
+
+### 📍 Lormont (4)
+
+- 🔵 [[Fast-Food/Lormont/Lormont_Restaurant_Bistrot_La_Belle_Rose.md|Bistrot La Belle Rose]] [à_contacter]
+- 🔵 [[Fast-Food/Lormont/Lormont_Restaurant_Chez_Safiye.md|Chez Safiye]] [à_contacter]
+- 🔵 [[Fast-Food/Lormont/Lormont_Restaurant_Deniz_Grill.md|Deniz Grill]] [à_contacter]
+- 🔵 [[Fast-Food/Lormont/Lormont_Restaurant_OFrango_Poulet_Braise.md|O'Frango Poulet Braisé]] [à_contacter]
+
+## Rénovation (2)
+
+### 📍 Floirac (1)
+
+- 🔵 [[Artisans/Floirac/Floirac_Rénovation_JRM_Services.md|JRM Services]] [à_contacter]
+
+### 📍 Mérignac (1)
+
+- 🔵 [[Artisans/Mérignac/Mérignac_Rénovation_RS_Renovation.md|RS Rénovation]] [à_contacter]
+
+## Serrurier (3)
+
+### 📍 Bordeaux (1)
+
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Serrurier_Abaque_Service.md|Abaque Service]] [à_contacter]
+
+### 📍 Floirac (1)
+
+- 🔵 [[Artisans/Floirac/Floirac_Serrurier_ADR_SERRURIER.md|A.D.R SERRURIER]] [à_contacter]
+
+### 📍 Mérignac (1)
+
+- 🔵 [[Artisans/Mérignac/Mérignac_Serrurier_Sesame_Protec_Cle.md|Sesame Protec Clé]] [à_contacter]
+
+## Snack (8)
+
+### 📍 Bordeaux (3)
+
+- 🔵 [[Fast-Food/Bordeaux/Bordeaux_Snack_Aslan_Berliner_Kebap.md|Aslan Berliner Kebap]] [à_contacter]
+- 🔵 [[Fast-Food/Bordeaux/Bordeaux_Snack_Chez_Anatole.md|Chez Anatole]] [à_contacter]
+- 🔵 [[Fast-Food/Bordeaux/Bordeaux_Snack_Elysee_Doner_Kebab.md|Elysée Doner Kebab]] [à_contacter]
+
+### 📍 Cenon (1)
+
+- 🔵 [[Fast-Food/Cenon/Cenon_Snack_Lottoman_Naan_Kebab_Tacos.md|L'ottoman Naan Kebab Tacos]] [à_contacter]
+
+### 📍 Lormont (3)
+
+- 🔵 [[Fast-Food/Lormont/Lormont_Snack_Eat_Kebab.md|Eat Kebab]] [à_contacter]
+- 🔵 [[Fast-Food/Lormont/Lormont_Snack_My_First.md|My First]] [à_contacter]
+- 🔵 [[Fast-Food/Lormont/Lormont_Snack_TK_20.md|TK 2.0]] [à_contacter]
+
+### 📍 Pessac / Mérignac (1)
+
+- 🔵 [[Fast-Food/Pessac_Mérignac/Pessac_Mérignac_Snack_Golden_French_Fries_Les_Delices_du_Burck.md|Golden French Fries / Les Délices du Burck]] [à_contacter]
+
+## Électricien (2)
+
+### 📍 Bordeaux (2)
+
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Électricien_BRUCELEC.md|BRUCELEC]] [à_contacter]
+- 🔵 [[Artisans/Bordeaux/Bordeaux_Électricien_ECLAIR_ELEC.md|ECLAIR ELEC]] [à_contacter]
