@@ -79,3 +79,103 @@
 | 73 | 🔵 Station Scooter | Commerce | Bordeaux | à_contacter | 🔴 haute | 05 57 85 81 46 | — | [[Commerces/Bordeaux/Bordeaux_Moto_Station_Scooter.md]] |
 | 74 | 🔵 TK 2.0 | Restauration | Lormont | à_contacter | 🔴 haute | — | — | [[Fast-Food/Lormont/Lormont_Snack_TK_20.md]] |
 | 75 | 🔵 Zeynep Coiffure | Commerce | Cenon | à_contacter | 🔴 haute | — | — | [[Commerces/Cenon/Cenon_Coiffeur_Zeynep_Coiffure.md]] |
+| 76 | 🔵 1, 2, 3 Nounou | Artisan | Bordeaux | à_contacter | 🟡 moyenne | 05 57 78 24 30 | — | [[Artisans/Bordeaux/Bordeaux_Nounou_1_2_3_Nounou.md]] |
+| 77 | 🔵 5th Avenue Barber Shop | Artisan | Bordeaux | à_contacter | 🟢 basse | 09 73 23 96 36 | — | [[Artisans/Bordeaux/Bordeaux_Service_5th_Avenue_Barber_Shop.md]] |
+| 78 | 🔵 ABP SECURITE 2000 | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 56 96 07 45 | abpsecurite2000@gmail.com | [[Artisans/Bordeaux/Bordeaux_Serrurier_ABP_SECURITE_2000.md]] |
+| 79 | 🔵 ARTEMA ENERGIES | Artisan | Bordeaux | à_contacter | 🟢 basse | 06 65 46 24 72 | artemaenergies@gmail.com | [[Artisans/Bordeaux/Bordeaux_Climatisation_ARTEMA_ENERGIES.md]] |
+| 80 | 🔵 ARTISAN AQUITAINE SERVICES 33 | Artisan | Bordeaux | à_contacter | 🟢 basse | 07 55 12 11 69 | — | [[Artisans/Bordeaux/Bordeaux_Serrurier_ARTISAN_AQUITAINE_SERVICES_33.md]] |
+| 81 | 🔵 ARTISAN FORGEAS COUVREUR BORDEAUX | Artisan | Bordeaux | à_contacter | 🟢 basse | 07 86 22 65 29 | — | [[Artisans/Bordeaux/Bordeaux_Couvreur_ARTISAN_FORGEAS_COUVREUR_BORDEAUX.md]] |
+| 82 | 🔵 Alain Pujade Cordonnerie | Artisan | Bordeaux | à_contacter | 🔴 haute | 05 56 93 11 87 | — | [[Artisans/Bordeaux/Bordeaux_Cordonnier_Alain_Pujade_Cordonnerie.md]] |
+| 83 | 🔵 Anthropik Tattoo Shop | Artisan | Bordeaux | à_contacter | 🔴 haute | 06 48 02 06 17 | — | [[Artisans/Bordeaux/Bordeaux_Tatoueur_Anthropik_Tattoo_Shop.md]] |
+| 84 | 🔵 Antiquités Viviane Morier | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 56 01 12 40 | — | [[Artisans/Bordeaux/Bordeaux_Service_Antiquites_Viviane_Morier.md]] |
+| 85 | 🔵 Antoine et ses Jardins | Artisan | Bordeaux | à_contacter | 🟢 basse | 06 62 87 47 56 | — | [[Artisans/Bordeaux/Bordeaux_Service_Antoine_et_ses_Jardins.md]] |
+| 86 | 🔵 Au Chien Beauté | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 56 52 11 18 | — | [[Artisans/Bordeaux/Bordeaux_Toiletteur_Au_Chien_Beaute.md]] |
+| 87 | 🔵 BAUER ET FILS | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 56 96 73 15 | — | [[Artisans/Bordeaux/Bordeaux_Couvreur_BAUER_ET_FILS.md]] |
+| 88 | 🔵 BELLA PLOMBERIE | Artisan | Bordeaux | à_contacter | 🟢 basse | 06 68 60 32 53 | bellaplomberie@gmail.com | [[Artisans/Bordeaux/Bordeaux_Plombier_BELLA_PLOMBERIE.md]] |
+| 89 | 🔵 BONS TUYAUX BORDELAIS | Artisan | Bordeaux | à_contacter | 🟢 basse | 07 84 28 27 39 | — | [[Artisans/Bordeaux/Bordeaux_Plombier_BONS_TUYAUX_BORDELAIS.md]] |
+| 90 | 🔵 BP ENERGIE SERVICES | Artisan | Bordeaux | à_contacter | 🟢 basse | 06 33 33 16 02 | bpenergieservices@gmail.com | [[Artisans/Bordeaux/Bordeaux_Chauffagiste_BP_ENERGIE_SERVICES.md]] |
+| 91 | 🔵 Bar Cave de la Monnaie | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 56 31 12 33 | — | [[Artisans/Bordeaux/Bordeaux_Service_Bar_Cave_de_la_Monnaie.md]] |
+| 92 | 🔵 Benoît SIMON Ostéopathie | Artisan | Bordeaux | à_contacter | 🔴 haute | 06 48 12 16 46 | — | [[Artisans/Bordeaux/Bordeaux_Ostéopathe_Benoit_SIMON_Osteopathie.md]] |
+| 93 | 🔵 Blanche Laigo-Cochet Thérapeute de Couple | Artisan | Bordeaux | à_contacter | 🟡 moyenne | 06 74 65 26 94 | — | [[Artisans/Bordeaux/Bordeaux_Thérapeute_Blanche_Laigo_Cochet_Therapeute_de_Couple.md]] |
+| 94 | 🔵 Bonne Mer | Artisan | Bordeaux | à_contacter | 🟡 moyenne | 05 56 44 42 63 | — | [[Artisans/Bordeaux/Bordeaux_Service_Bonne_Mer.md]] |
+| 95 | 🔵 Bordeaux Piscines | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 56 92 93 74 | — | [[Artisans/Bordeaux/Bordeaux_Pisciniste_Bordeaux_Piscines.md]] |
+| 96 | 🔵 CHAUFFAGE DES CHARTRONS C.D.C | Artisan | Bordeaux | à_contacter | 🟢 basse | 06 67 44 22 43 | cdcchartrons@gmail.com | [[Artisans/Bordeaux/Bordeaux_Chauffagiste_CHAUFFAGE_DES_CHARTRONS_CDC.md]] |
+| 97 | 🔵 Cabinet Kiné Gaëlle CURSAT | Artisan | Bordeaux | à_contacter | 🟡 moyenne | 06 38 93 77 44 | — | [[Artisans/Bordeaux/Bordeaux_Kiné_Cabinet_Kine_Gaelle_CURSAT.md]] |
+| 98 | 🔵 Cabinet Lassort Avocat | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 47 74 93 92 | contact@lassort-avocat.fr | [[Artisans/Bordeaux/Bordeaux_Avocat_Cabinet_Lassort_Avocat.md]] |
+| 99 | 🔵 Cabinet Psychologique Baggio & Griffiths | Artisan | Bordeaux | à_contacter | 🟡 moyenne | 09 63 50 60 35 | — | [[Artisans/Bordeaux/Bordeaux_Service_Cabinet_Psychologique_Baggio_Griffiths.md]] |
+| 100 | 🔵 Cabinet Sages Femmes Bordeaux Caudéran | Artisan | Bordeaux | à_contacter | 🟡 moyenne | 05 56 08 98 54 | — | [[Artisans/Bordeaux/Bordeaux_Sage-femme_Cabinet_Sages_Femmes_Bordeaux_Cauderan.md]] |
+| 101 | 🔵 Cabinet kiné ostéo Nasse-Ferry-Amevet | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 56 48 15 03 | — | [[Artisans/Bordeaux/Bordeaux_Service_Cabinet_kine_osteo_Nasse_Ferry_Amevet.md]] |
+| 102 | 🔵 Cabinet psychologue Juliette REMY | Artisan | Bordeaux | à_contacter | 🟡 moyenne | 07 77 26 14 76 | — | [[Artisans/Bordeaux/Bordeaux_Service_Cabinet_psychologue_Juliette_REMY.md]] |
+| 103 | 🔵 Cabinet psychologue Veronika Heidinger | Artisan | Bordeaux | à_contacter | 🟡 moyenne | 06 19 19 62 92 | — | [[Artisans/Bordeaux/Bordeaux_Service_Cabinet_psychologue_Veronika_Heidinger.md]] |
+| 104 | 🔵 Cappadoce | Artisan | Bordeaux | à_contacter | 🔴 haute | 05 56 44 61 64 | — | [[Artisans/Bordeaux/Bordeaux_Restaurant_Cappadoce.md]] |
+| 105 | 🔵 Carole Calvez Sage-femme | Artisan | Bordeaux | à_contacter | 🟡 moyenne | 05 57 81 82 62 | — | [[Artisans/Bordeaux/Bordeaux_Sage-femme_Carole_Calvez_Sage_femme.md]] |
+| 106 | 🔵 Caroline Beccaria Hypnothérapeute | Artisan | Bordeaux | à_contacter | 🔴 haute | 06 13 20 13 85 | — | [[Artisans/Bordeaux/Bordeaux_Hypnothérapeute_Caroline_Beccaria_Hypnotherapeute.md]] |
+| 107 | 🔵 Caroline Nivard Ostéopathe | Artisan | Bordeaux | à_contacter | 🔴 haute | 05 57 59 91 76 | — | [[Artisans/Bordeaux/Bordeaux_Ostéopathe_Caroline_Nivard_Osteopathe.md]] |
+| 108 | 🔵 Chez Dem Tatoueur | Artisan | Bordeaux | à_contacter | 🔴 haute | 07 71 81 75 77 | — | [[Artisans/Bordeaux/Bordeaux_Tatoueur_Chez_Dem_Tatoueur.md]] |
+| 109 | 🔵 Cilicie le restaurant | Artisan | Bordeaux | à_contacter | 🟢 basse | 09 52 40 76 41 | — | [[Artisans/Bordeaux/Bordeaux_Restaurant_Cilicie_le_restaurant.md]] |
+| 110 | 🔵 Coiffure Masculine Barbier Sassano Nicolas | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 56 98 50 57 | — | [[Artisans/Bordeaux/Bordeaux_Barbier_Coiffure_Masculine_Barbier_Sassano_Nicolas.md]] |
+| 111 | 🔵 Cordonnerie de la Somme | Artisan | Bordeaux | à_contacter | 🔴 haute | 05 56 91 89 30 | cordo.somme@laposte.net | [[Artisans/Bordeaux/Bordeaux_Cordonnier_Cordonnerie_de_la_Somme.md]] |
+| 112 | 🔵 Cécile Labonne Photographe | Artisan | Bordeaux | à_contacter | 🟢 basse | 06 62 83 67 91 | cecilelabonne@gmail.com | [[Artisans/Bordeaux/Bordeaux_Service_Cecile_Labonne_Photographe.md]] |
+| 113 | 🔵 Dock des Épices | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 56 44 41 57 | — | [[Artisans/Bordeaux/Bordeaux_Service_Dock_des_Epices.md]] |
+| 114 | 🔵 Drai Antiquités | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 56 48 53 22 | — | [[Artisans/Bordeaux/Bordeaux_Service_Drai_Antiquites.md]] |
+| 115 | 🔵 E.F.P.S. | Artisan | Bordeaux | à_contacter | 🟢 basse | 06 27 10 81 13 | efps.plomberie@gmail.com | [[Artisans/Bordeaux/Bordeaux_Plombier_EFPS.md]] |
+| 116 | 🔵 ESCALE DETENTE | Artisan | Bordeaux | à_contacter | 🔴 haute | 05 57 87 58 50 | — | [[Artisans/Bordeaux/Bordeaux_Service_ESCALE_DETENTE.md]] |
+| 117 | 🔵 Espace Antiquités Tallec | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 56 01 12 59 | — | [[Artisans/Bordeaux/Bordeaux_Service_Espace_Antiquites_Tallec.md]] |
+| 118 | 🔵 Esprit Tendance | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 56 96 42 97 | — | [[Artisans/Bordeaux/Bordeaux_Coiffeur_Esprit_Tendance.md]] |
+| 119 | 🔵 Etude Charrier-Betous Notaires | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 64 31 09 60 | — | [[Artisans/Bordeaux/Bordeaux_Notaire_Etude_Charrier_Betous_Notaires.md]] |
+| 120 | 🔵 FROID CONTEND' | Artisan | Bordeaux | à_contacter | 🟢 basse | 06 44 00 03 11 | froidcontend@gmail.com | [[Artisans/Bordeaux/Bordeaux_Climatisation_FROID_CONTEND.md]] |
+| 121 | 🔵 GT SERRURERIE | Artisan | Bordeaux | à_contacter | 🟢 basse | 07 69 62 46 61 | — | [[Artisans/Bordeaux/Bordeaux_Serrurier_GT_SERRURERIE.md]] |
+| 122 | 🔵 Gastronomie des Pyrénées | Artisan | Bordeaux | à_contacter | 🔴 haute | 05 56 52 87 59 | — | [[Artisans/Bordeaux/Bordeaux_Service_Gastronomie_des_Pyrenees.md]] |
+| 123 | 🔵 Grill'hot | Artisan | Bordeaux | à_contacter | 🔴 haute | 05 56 20 73 17 | — | [[Artisans/Bordeaux/Bordeaux_Service_Grillhot.md]] |
+| 124 | 🔵 HUGO CHAMARD - PLOMBERIE | Artisan | Bordeaux | à_contacter | 🟢 basse | 06 26 38 66 26 | — | [[Artisans/Bordeaux/Bordeaux_Plombier_HUGO_CHAMARD_PLOMBERIE.md]] |
+| 125 | 🔵 Haircut Fashion Hair | Artisan | Bordeaux | à_contacter | 🟢 basse | 07 82 87 75 19 | — | [[Artisans/Bordeaux/Bordeaux_Service_Haircut_Fashion_Hair.md]] |
+| 126 | 🔵 Héloïse Delabarre Sophrologue | Artisan | Bordeaux | à_contacter | 🔴 haute | 07 62 46 14 16 | — | [[Artisans/Bordeaux/Bordeaux_Sophrologue_Heloise_Delabarre_Sophrologue.md]] |
+| 127 | 🔵 IDS ENERGIES | Artisan | Bordeaux | à_contacter | 🟢 basse | 06 98 01 94 19 | idsenergies@gmail.com | [[Artisans/Bordeaux/Bordeaux_Service_IDS_ENERGIES.md]] |
+| 128 | 🔵 ISOLASUR | Artisan | Bordeaux | à_contacter | 🟢 basse | 06 64 44 49 42 | isolasur@gmail.com | [[Artisans/Bordeaux/Bordeaux_Isolation_ISOLASUR.md]] |
+| 129 | 🔵 JFS DEPANN' PLOMBERIE | Artisan | Bordeaux | à_contacter | 🔴 haute | 06 48 56 65 03 | jfsdepann@gmail.com | [[Artisans/Bordeaux/Bordeaux_Plombier_JFS_DEPANN_PLOMBERIE.md]] |
+| 130 | 🔵 Jardin d'Echoppe Paysagiste | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 64 37 59 58 | contact@jardindechoppe.fr | [[Artisans/Bordeaux/Bordeaux_Paysagiste_Jardin_dEchoppe_Paysagiste.md]] |
+| 131 | 🔵 Kingdom Barber 33 | Artisan | Bordeaux | à_contacter | 🟢 basse | 09 83 56 73 32 | — | [[Artisans/Bordeaux/Bordeaux_Service_Kingdom_Barber_33.md]] |
+| 132 | 🔵 L'Epicerie 56 | Artisan | Bordeaux | à_contacter | 🟢 basse | 09 81 10 00 21 | — | [[Artisans/Bordeaux/Bordeaux_Service_LEpicerie_56.md]] |
+| 133 | 🔵 L'insolent Barbershop | Artisan | Bordeaux | à_contacter | 🟢 basse | 06 68 68 91 05 | — | [[Artisans/Bordeaux/Bordeaux_Service_Linsolent_Barbershop.md]] |
+| 134 | 🔵 LA COMPAGNIE DES RAMONEURS | Artisan | Bordeaux | à_contacter | 🟢 basse | 07 89 00 61 38 | laramoneurs@gmail.com | [[Artisans/Bordeaux/Bordeaux_Service_LA_COMPAGNIE_DES_RAMONEURS.md]] |
+| 135 | 🔵 La Cordonnerie Jaune | Artisan | Bordeaux | à_contacter | 🔴 haute | 05 56 92 63 15 | cordo.somme@laposte.net | [[Artisans/Bordeaux/Bordeaux_Cordonnier_La_Cordonnerie_Jaune.md]] |
+| 136 | 🔵 La Maison Des Barbers | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 44 49 48 36 | — | [[Artisans/Bordeaux/Bordeaux_Service_La_Maison_Des_Barbers.md]] |
+| 137 | 🔵 La Maison du Traiteur | Artisan | Bordeaux | à_contacter | 🟡 moyenne | 05 56 92 92 29 | — | [[Artisans/Bordeaux/Bordeaux_Service_La_Maison_du_Traiteur.md]] |
+| 138 | 🔵 Laborie Eric Notaire | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 56 31 44 65 | — | [[Artisans/Bordeaux/Bordeaux_Notaire_Laborie_Eric_Notaire.md]] |
+| 139 | 🔵 Lasserre Véronique Notaire | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 56 48 09 16 | — | [[Artisans/Bordeaux/Bordeaux_Notaire_Lasserre_Veronique_Notaire.md]] |
+| 140 | 🔵 Le Bouif Cordonnerie | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 56 52 54 03 | — | [[Artisans/Bordeaux/Bordeaux_Cordonnier_Le_Bouif_Cordonnerie.md]] |
+| 141 | 🔵 Le Garçon Boucher | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 54 78 68 30 | contact@legarconboucher.fr | [[Artisans/Bordeaux/Bordeaux_Service_Le_Garcon_Boucher.md]] |
+| 142 | 🔵 Le Grill Au Thym | Artisan | Bordeaux | à_contacter | 🔴 haute | 05 56 51 05 04 | — | [[Artisans/Bordeaux/Bordeaux_Service_Le_Grill_Au_Thym.md]] |
+| 143 | 🔵 Le Passage Notre Dame | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 56 44 02 66 | — | [[Artisans/Bordeaux/Bordeaux_Service_Le_Passage_Notre_Dame.md]] |
+| 144 | 🔵 Le Phénicien (Château du Liban) | Artisan | Bordeaux | à_contacter | 🔴 haute | 06 62 21 26 89 | — | [[Artisans/Bordeaux/Bordeaux_Restaurant_Le_Phenicien_Chateau_du_Liban.md]] |
+| 145 | 🔵 Le Pressensé | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 56 91 85 25 | — | [[Artisans/Bordeaux/Bordeaux_Service_Le_Pressense.md]] |
+| 146 | 🔵 MB Barber Shop | Artisan | Bordeaux | à_contacter | 🔴 haute | 06 59 82 97 15 | — | [[Artisans/Bordeaux/Bordeaux_Service_MB_Barber_Shop.md]] |
+| 147 | 🔵 MICKAEL BLANC SERRURIER | Artisan | Bordeaux | à_contacter | 🟢 basse | 06 66 11 79 32 | mickaelblanc33@gmail.com | [[Artisans/Bordeaux/Bordeaux_Serrurier_MICKAEL_BLANC_SERRURIER.md]] |
+| 148 | 🔵 MON ELECTRICIEN A VELO | Artisan | Bordeaux | à_contacter | 🟢 basse | 06 65 16 76 21 | contact@electricien-velo-bordeaux.fr | [[Artisans/Bordeaux/Bordeaux_Électricien_MON_ELECTRICIEN_A_VELO.md]] |
+| 149 | 🔵 Marjolaine Joly Thérapeute | Artisan | Bordeaux | à_contacter | 🟡 moyenne | 06 99 02 18 15 | — | [[Artisans/Bordeaux/Bordeaux_Service_Marjolaine_Joly_Therapeute.md]] |
+| 150 | 🔵 Maître Sophie Pasturaud Avocat | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 56 48 56 93 | spasturaud@pasturaudavocat.fr | [[Artisans/Bordeaux/Bordeaux_Avocat_Maitre_Sophie_Pasturaud_Avocat.md]] |
+| 151 | 🔵 Maître Valérie LEMBEZAT RÉAL Avocat | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 56 48 12 54 | v.lembezat.avocat@wanadoo.fr | [[Artisans/Bordeaux/Bordeaux_Avocat_Maitre_Valerie_LEMBEZAT_REAL_Avocat.md]] |
+| 152 | 🔵 Mokoji Grill | Artisan | Bordeaux | à_contacter | 🟢 basse | 09 83 67 09 85 | — | [[Artisans/Bordeaux/Bordeaux_Service_Mokoji_Grill.md]] |
+| 153 | 🔵 Nathalie EDET Hypnose | Artisan | Bordeaux | à_contacter | 🔴 haute | 06 66 19 15 08 | — | [[Artisans/Bordeaux/Bordeaux_Hypnothérapeute_Nathalie_EDET_Hypnose.md]] |
+| 154 | 🔵 O2 Barbier | Artisan | Bordeaux | à_contacter | 🔴 haute | 09 52 95 20 30 | — | [[Artisans/Bordeaux/Bordeaux_Service_O2_Barbier.md]] |
+| 155 | 🔵 Ostéopathe D.O CHAIBI Soufiane | Artisan | Bordeaux | à_contacter | 🔴 haute | 06 35 18 17 60 | — | [[Artisans/Bordeaux/Bordeaux_Ostéopathe_Osteopathe_DO_CHAIBI_Soufiane.md]] |
+| 156 | 🔵 PENA SERRURERIE | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 56 94 76 39 | — | [[Artisans/Bordeaux/Bordeaux_Serrurier_PENA_SERRURERIE.md]] |
+| 157 | 🔵 PLOMBERIE LAURENT VIAUD | Artisan | Bordeaux | à_contacter | 🟢 basse | 06 80 06 99 06 | — | [[Artisans/Bordeaux/Bordeaux_Plombier_PLOMBERIE_LAURENT_VIAUD.md]] |
+| 158 | 🔵 Pascal Rousse Photographe | Artisan | Bordeaux | à_contacter | 🟢 basse | 06 77 23 27 16 | contact@pascalrousse.fr | [[Artisans/Bordeaux/Bordeaux_Service_Pascal_Rousse_Photographe.md]] |
+| 159 | 🔵 Pipat Antiquités | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 56 51 98 82 | — | [[Artisans/Bordeaux/Bordeaux_Service_Pipat_Antiquites.md]] |
+| 160 | 🔵 Poeyto Delphine Sage-femme | Artisan | Bordeaux | à_contacter | 🟡 moyenne | 06 11 52 07 46 | — | [[Artisans/Bordeaux/Bordeaux_Sage-femme_Poeyto_Delphine_Sage_femme.md]] |
+| 161 | 🔵 Pressing Doumer | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 56 52 70 64 | — | [[Artisans/Bordeaux/Bordeaux_Pressing_Pressing_Doumer.md]] |
+| 162 | 🔵 Rapid Pressing | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 56 92 58 49 | — | [[Artisans/Bordeaux/Bordeaux_Pressing_Rapid_Pressing.md]] |
+| 163 | 🔵 Rouzet Yann Notaire | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 56 44 00 60 | — | [[Artisans/Bordeaux/Bordeaux_Notaire_Rouzet_Yann_Notaire.md]] |
+| 164 | 🔵 SAEZ THERMIQUE ET SANITAIRE | Artisan | Bordeaux | à_contacter | 🟢 basse | 07 54 48 67 01 | saezthermique@gmail.com | [[Artisans/Bordeaux/Bordeaux_Plombier_SAEZ_THERMIQUE_ET_SANITAIRE.md]] |
+| 165 | 🔵 Safari Kids Bordeaux | Artisan | Bordeaux | à_contacter | 🟡 moyenne | 05 35 54 40 00 | — | [[Artisans/Bordeaux/Bordeaux_Nounou_Safari_Kids_Bordeaux.md]] |
+| 166 | 🔵 Siewe-Tchameni Grace Sage-femme | Artisan | Bordeaux | à_contacter | 🔴 haute | 05 56 04 98 34 | — | [[Artisans/Bordeaux/Bordeaux_Sage-femme_Siewe_Tchameni_Grace_Sage_femme.md]] |
+| 167 | 🔵 Solans Fanny Notaire | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 56 48 95 48 | — | [[Artisans/Bordeaux/Bordeaux_Notaire_Solans_Fanny_Notaire.md]] |
+| 168 | 🔵 Sonia D'Hont Hypnothérapeute | Artisan | Bordeaux | à_contacter | 🔴 haute | 07 65 73 08 63 | — | [[Artisans/Bordeaux/Bordeaux_Hypnothérapeute_Sonia_DHont_Hypnotherapeute.md]] |
+| 169 | 🔵 THOMAS SANGOUARD | Artisan | Bordeaux | à_contacter | 🟢 basse | 06 65 05 85 97 | thomas.sangouard@gmail.com | [[Artisans/Bordeaux/Bordeaux_Plombier_THOMAS_SANGOUARD.md]] |
+| 170 | 🔵 Teinturerie Gambetta (Secapress) | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 56 44 24 39 | — | [[Artisans/Bordeaux/Bordeaux_Pressing_Teinturerie_Gambetta_Secapress.md]] |
+| 171 | 🔵 Toilettage Mobile Bordeaux | Artisan | Bordeaux | à_contacter | 🟢 basse | 09 80 80 84 42 | — | [[Artisans/Bordeaux/Bordeaux_Toiletteur_Toilettage_Mobile_Bordeaux.md]] |
+| 172 | 🔵 Towanda Piercing | Artisan | Bordeaux | à_contacter | 🔴 haute | 07 81 38 28 84 | — | [[Artisans/Bordeaux/Bordeaux_Piercing_Towanda_Piercing.md]] |
+| 173 | 🔵 VOLENNA | Artisan | Bordeaux | à_contacter | 🟢 basse | 06 12 29 36 49 | volenna@gmail.com | [[Artisans/Bordeaux/Bordeaux_Service_VOLENNA.md]] |
+| 174 | 🔵 Yaigre Notaires Associés | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 56 00 88 11 | — | [[Artisans/Bordeaux/Bordeaux_Notaire_Yaigre_Notaires_Associes.md]] |
+| 175 | 🔵 Yako | Artisan | Bordeaux | à_contacter | 🟢 basse | 05 56 81 72 39 | — | [[Artisans/Bordeaux/Bordeaux_Service_Yako.md]] |
